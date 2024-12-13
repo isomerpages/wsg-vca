@@ -13,4 +13,6 @@ sections:
       variant: side
       size: md
       backgroundColor: gray
+      button: About Polaris by VCA
+      url: /about-polaris-by-vca
 ---
