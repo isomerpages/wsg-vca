@@ -2,19 +2,19 @@ title: Polaris by WSG
 url: https://www.wsg.gov.sg
 favicon: /images/WSG_Favicon.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#330072"
+  secondary-color: "#c5299b"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#00b0b9"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#6cc24a"
     - title: media-color-three
-      color: "#00838f"
+      color: "#e87722"
     - title: media-color-four
-      color: "#00838f"
+      color: "#a05eb5"
     - title: media-color-five
-      color: "#00838f"
+      color: "#dbdddd"
 description: ""
 permalink: none
 baseurl: ""
