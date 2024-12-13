@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Navigate Your Career Journey with Polaris by VCA
-      subtitle: One-on-one career guidance from industry veterans
+      subtitle: One-on-one career guidance from an industry veteran
       background: /images/hero-banner.png
       variant: side
       size: md
