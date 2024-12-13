@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Polaris by WSG
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/20241129_WSG_Polaris_Logo_by_Workforce_Singapore_s_Volunteer_Career_Advisors_FA_path.jpg
 permalink: /
 notification: ""
 sections:
