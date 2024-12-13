@@ -14,5 +14,5 @@ sections:
       size: md
       backgroundColor: gray
       button: About Polaris by VCA
-      url: /about-polaris-by-vca
+      url: /about-polaris-by-vca/
 ---
