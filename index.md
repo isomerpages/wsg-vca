@@ -7,16 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Polaris by VCA
-      subtitle: "Brought to you by: Workforce Singapore"
+      title: Navigate Your Career Journey with Polaris by VCA
+      subtitle: One-on-one career guidance from industry veterans
       background: /images/hero-banner.png
-      dropdown:
-        title: Browse Volunteers by Sectors
-        options: []
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      variant: side
+      size: md
+      backgroundColor: gray
 ---
