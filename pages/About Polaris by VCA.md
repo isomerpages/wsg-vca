@@ -35,7 +35,7 @@ and entrepreneurship</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Polaris by VCA is designed for young workforce entrants professionals who are: </strong>
+<p><strong>Polaris by VCA is designed for young workforce entrants professionals who are:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -56,4 +56,4 @@ and entrepreneurship</p>
 </ul>
 <p></p>
 <p>Ready to gain a head start in your career journey? Explore our VCA profiles
-and find your perfect guide today!</p>
+and find your mentor today.</p>
