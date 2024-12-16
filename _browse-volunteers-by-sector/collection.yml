@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Professional Services/.keep
-      - Professional Services.md
       - Aviation.md
