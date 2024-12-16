@@ -26,9 +26,9 @@ sections:
         - title: Financial Services
           description: ""
         - title: Manufacturing
-          description: Infobox description
+          description: ""
   - infocols:
-      title: ""
+      title: "2"
       id: infocols
       infoboxes:
         - title: Retail
