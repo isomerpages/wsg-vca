@@ -2,6 +2,7 @@ collections:
   browse-volunteers-by-sector:
     output: true
     order:
+      - Human Resource/.keep
       - Aviation/.keep
       - Infocomm & Technology/.keep
       - Professional Services/Aditi Singh.md
