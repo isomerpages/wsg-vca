@@ -1,4 +1,5 @@
 collections:
   browse-volunteers-by-sector:
     output: true
-    order: []
+    order:
+      - Aviation.md
