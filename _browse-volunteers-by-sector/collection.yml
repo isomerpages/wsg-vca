@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Infocomm & Technology/.keep
+      - Professional Services/Aditi Singh.md
       - Professional Services/Professional Services.md
       - Professional Services/.keep
       - Aviation.md
