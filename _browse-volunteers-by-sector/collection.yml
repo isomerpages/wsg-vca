@@ -2,6 +2,7 @@ collections:
   browse-volunteers-by-sector:
     output: true
     order:
+      - Real Estate/.keep
       - Retail/.keep
       - Manufacturing/.keep
       - Education/.keep
