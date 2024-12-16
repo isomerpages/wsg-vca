@@ -15,4 +15,28 @@ sections:
       backgroundColor: gray
       button: About Polaris by VCA
       url: /about-polaris-by-vca/
+  - infocols:
+      title: Browse VCAs by Sectors
+      id: infocols
+      infoboxes:
+        - title: Professional Services
+          description: ""
+        - title: Aviation
+          description: ""
+        - title: Financial Services
+          description: ""
+        - title: Manufacturing
+          description: Infobox description
+  - infocols:
+      title: ""
+      id: infocols
+      infoboxes:
+        - title: Retail
+          description: ""
+        - title: Hospitality & Tourism
+          description: ""
+        - title: Education
+          description: ""
+        - title: Healthcare & Biomedical
+          description: ""
 ---
