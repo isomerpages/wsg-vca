@@ -1,8 +1,4 @@
 logo: /images/20241129_WSG_Polaris_Logo_by_Workforce_Singapore_s_Volunteer_Career_Advisors_FA_path.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Browse Volunteers By Sector
     collection: browse-volunteers-by-sector
