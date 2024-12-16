@@ -2,6 +2,7 @@ collections:
   browse-volunteers-by-sector:
     output: true
     order:
+      - Financial Services/.keep
       - Public Service/.keep
       - Marketing & Branding/.keep
       - Social Services/.keep
