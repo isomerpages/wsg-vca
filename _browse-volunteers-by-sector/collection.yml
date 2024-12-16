@@ -1,4 +1,4 @@
 collections:
-  browse-volunteers-by-sectors:
+  browse-volunteers-by-sector:
     output: true
     order: []
