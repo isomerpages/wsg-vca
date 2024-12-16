@@ -2,6 +2,7 @@ collections:
   browse-volunteers-by-sector:
     output: true
     order:
+      - Social Services/.keep
       - Real Estate/.keep
       - Retail/.keep
       - Manufacturing/.keep
