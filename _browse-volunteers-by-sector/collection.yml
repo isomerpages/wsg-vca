@@ -2,5 +2,6 @@ collections:
   browse-volunteers-by-sector:
     output: true
     order:
+      - Professional Services/.keep
       - Professional Services.md
       - Aviation.md
