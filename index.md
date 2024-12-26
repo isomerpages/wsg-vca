@@ -28,19 +28,7 @@ sections:
       title: Connectivity Cluster
       id: textcards
       cards:
-        - title: Hospitality and Tourism
-          description: ""
-          linktext: Browse Volunteer Career Advisors
-          url: ""
-        - title: Infocomm and Technology
-          description: ""
-          linktext: Browse Volunteer Career Advisors
-          url: ""
-        - title: Manufacturing
-          description: ""
-          linktext: Browse Volunteer Career Advisors
-          url: ""
-        - title: Marketing & Branding
+        - title: Air Transport
           description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
@@ -48,64 +36,52 @@ sections:
       title: Human Health & Potential Cluster
       id: textcards
       cards:
-        - title: Card
+        - title: Education
           description: Card description
-          linktext: Learn more
+          linktext: Browse Volunteer Career Advisors
           url: ""
-        - title: Card
+        - title: Healthcare & Biomedical
           description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
+          linktext: Browse Volunteer Career Advisors
           url: ""
   - textcards:
       title: Urban Systems Cluster
       id: textcards
       cards:
-        - title: Card
+        - title: Real Estate
           description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
+          linktext: Browse Volunteer Career Advisors
           url: ""
   - textcards:
       title: Modern Services Cluster
       id: textcards
       cards:
-        - title: Card
+        - title: Financial Services
           description: Card description
-          linktext: Learn more
+          linktext: Browse Volunteer Career Advisors
           url: ""
-        - title: Card
+        - title: Infocomm and Technology
           description: Card description
-          linktext: Learn more
+          linktext: Browse Volunteer Career Advisors
           url: ""
-        - title: Card
+        - title: Marketing & Branding
           description: Card description
-          linktext: Learn more
+          linktext: Browse Volunteer Career Advisors
+          url: ""
+        - title: Professional Services
+          description: Card description
+          linktext: Browse Volunteer Career Advisors
           url: ""
   - textcards:
       title: Lifestyle Cluster
       id: textcards
       cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
+        - title: Hotel
+          description: ""
+          linktext: Browse Volunteer Career Advisors
           url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
+        - title: Retail
+          description: ""
+          linktext: Browse Volunteer Career Advisors
           url: ""
 ---
