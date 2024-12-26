@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Air Transport/.keep
-      - Education/Education.md
       - Education/.keep
       - Financial Services/.keep
       - Healthcare & Biomedical/.keep
