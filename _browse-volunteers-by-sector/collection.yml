@@ -2,12 +2,13 @@ collections:
   browse-volunteers-by-sector:
     output: true
     order:
-      - Air Transport/Air Transport.md
       - Air Transport/.keep
+      - Air Transport/Air Transport.md
       - Education/.keep
       - Financial Services/.keep
       - Healthcare & Biomedical/.keep
       - Hotel/.keep
+      - Human Resource/.keep
       - Infocomm & Technology/.keep
       - Manufacturing/.keep
       - Marketing & Branding/.keep
@@ -18,4 +19,3 @@ collections:
       - Real Estate/.keep
       - Retail/.keep
       - Social Service/.keep
-      - Human Resource/.keep
