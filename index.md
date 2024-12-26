@@ -20,19 +20,19 @@ sections:
       id: textcards
       cards:
         - title: Aviation
-          description: Card description
+          description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
         - title: Education
-          description: Card description
+          description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
         - title: Financial Services
-          description: Card description
+          description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
         - title: Healthcare & Biomedical
-          description: Card description
+          description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
   - textcards:
@@ -40,19 +40,19 @@ sections:
       id: textcards
       cards:
         - title: Hospitality and Tourism
-          description: Card description
+          description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
         - title: Infocomm and Technology
-          description: Card description
+          description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
-        - title: Card
-          description: Card description
+        - title: Manufacturing
+          description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
-        - title: Card
-          description: Card description
+        - title: Marketing & Branding
+          description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
 ---
