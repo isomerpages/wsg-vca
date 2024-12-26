@@ -37,7 +37,7 @@ sections:
           url: ""
       subtitle: BROWSE VOLUNTEERS BY SECTOR
   - textcards:
-      title: "-"
+      title: Connectivity Cluster
       id: textcards
       cards:
         - title: Hospitality and Tourism
@@ -55,5 +55,77 @@ sections:
         - title: Marketing & Branding
           description: ""
           linktext: Browse Volunteer Career Advisors
+          url: ""
+  - textcards:
+      title: Human Health & Potential Cluster
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+  - textcards:
+      title: Urban Systems Cluster
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+  - textcards:
+      title: Modern Services Cluster
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+  - textcards:
+      title: Lifestyle Cluster
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
           url: ""
 ---
