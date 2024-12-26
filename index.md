@@ -37,11 +37,11 @@ sections:
       id: textcards
       cards:
         - title: Education
-          description: Card description
+          description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
         - title: Healthcare & Biomedical
-          description: Card description
+          description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
   - textcards:
@@ -49,7 +49,7 @@ sections:
       id: textcards
       cards:
         - title: Real Estate
-          description: Card description
+          description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
   - textcards:
@@ -57,19 +57,19 @@ sections:
       id: textcards
       cards:
         - title: Financial Services
-          description: Card description
+          description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
         - title: Infocomm and Technology
-          description: Card description
+          description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
         - title: Marketing & Branding
-          description: Card description
+          description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
         - title: Professional Services
-          description: Card description
+          description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
   - textcards:
