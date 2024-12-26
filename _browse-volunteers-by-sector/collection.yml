@@ -2,7 +2,7 @@ collections:
   browse-volunteers-by-sector:
     output: true
     order:
-      - Hospitality & Tourism/.keep
+      - Hotel/.keep
       - Healthcare & Biomedical/.keep
       - Financial Services/.keep
       - Public Service/.keep
