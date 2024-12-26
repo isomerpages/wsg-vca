@@ -36,11 +36,13 @@ sections:
           linktext: Browse Volunteer Career Advisors
           url: ""
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: ""
       id: textcards
-      description: Text card description
       cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
         - title: Card
           description: Card description
           linktext: Learn more
