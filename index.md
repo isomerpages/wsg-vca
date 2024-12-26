@@ -19,19 +19,7 @@ sections:
       title: Advanced Manufacturing & Trade Cluster
       id: textcards
       cards:
-        - title: Aviation
-          description: ""
-          linktext: Browse Volunteer Career Advisors
-          url: ""
-        - title: Education
-          description: ""
-          linktext: Browse Volunteer Career Advisors
-          url: ""
-        - title: Financial Services
-          description: ""
-          linktext: Browse Volunteer Career Advisors
-          url: ""
-        - title: Healthcare & Biomedical
+        - title: Manufacturing
           description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
@@ -58,9 +46,7 @@ sections:
           url: ""
   - textcards:
       title: Human Health & Potential Cluster
-      subtitle: Add informational text
       id: textcards
-      description: Text card description
       cards:
         - title: Card
           description: Card description
@@ -76,9 +62,7 @@ sections:
           url: ""
   - textcards:
       title: Urban Systems Cluster
-      subtitle: Add informational text
       id: textcards
-      description: Text card description
       cards:
         - title: Card
           description: Card description
@@ -94,9 +78,7 @@ sections:
           url: ""
   - textcards:
       title: Modern Services Cluster
-      subtitle: Add informational text
       id: textcards
-      description: Text card description
       cards:
         - title: Card
           description: Card description
@@ -112,9 +94,7 @@ sections:
           url: ""
   - textcards:
       title: Lifestyle Cluster
-      subtitle: Add informational text
       id: textcards
-      description: Text card description
       cards:
         - title: Card
           description: Card description
