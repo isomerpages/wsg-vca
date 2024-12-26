@@ -15,28 +15,26 @@ sections:
       backgroundColor: gray
       button: About Polaris by VCA
       url: /about-polaris-by-vca/
-  - infocols:
-      title: Browse VCAs by Sectors
-      id: infocols
-      infoboxes:
-        - title: Professional Services
-          description: ""
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
         - title: Aviation
-          description: ""
-        - title: Financial Services
-          description: ""
-        - title: Manufacturing
-          description: ""
-  - infocols:
-      title: "2"
-      id: infocols
-      infoboxes:
-        - title: Retail
-          description: ""
-        - title: Hospitality & Tourism
-          description: ""
+          description: Card description
+          linktext: Browse Volunteer Career Advisors
+          url: ""
         - title: Education
-          description: ""
+          description: Card description
+          linktext: Browse Volunteer Career Advisors
+          url: ""
+        - title: Financial Services
+          description: Card description
+          linktext: Browse Volunteer Career Advisors
+          url: ""
         - title: Healthcare & Biomedical
-          description: ""
+          description: Card description
+          linktext: Browse Volunteer Career Advisors
+          url: ""
 ---
