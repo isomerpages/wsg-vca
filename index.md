@@ -16,7 +16,7 @@ sections:
       button: About Polaris by VCA
       url: /about-polaris-by-vca/
   - textcards:
-      title: Browse Volunteers by Sector
+      title: Advanced Manufacturing & Trade Cluster
       id: textcards
       cards:
         - title: Aviation
@@ -35,6 +35,7 @@ sections:
           description: ""
           linktext: Browse Volunteer Career Advisors
           url: ""
+      subtitle: BROWSE VOLUNTEERS BY SECTOR
   - textcards:
       title: "-"
       id: textcards
