@@ -2,20 +2,20 @@ collections:
   browse-volunteers-by-sector:
     output: true
     order:
-      - Hotel/.keep
-      - Healthcare & Biomedical/.keep
-      - Financial Services/.keep
-      - Public Service/.keep
-      - Marketing & Branding/.keep
-      - Social Service/.keep
-      - Real Estate/.keep
-      - Retail/.keep
-      - Manufacturing/.keep
-      - Education/.keep
-      - Human Resource/.keep
       - Air Transport/.keep
+      - Education/.keep
+      - Financial Services/.keep
+      - Healthcare & Biomedical/.keep
+      - Hotel/.keep
       - Infocomm & Technology/.keep
+      - Manufacturing/.keep
+      - Marketing & Branding/.keep
+      - Professional Services/.keep
       - Professional Services/Aditi Singh.md
       - Professional Services/Professional Services.md
-      - Professional Services/.keep
+      - Public Service/.keep
+      - Real Estate/.keep
+      - Retail/.keep
+      - Social Service/.keep
+      - Human Resource/.keep
       - Air Transport.md
