@@ -7,7 +7,7 @@ third_nav_title: Professional Services
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Aditi_Singh.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Aditi_Singh.jpg">
 </div>
 <p>Aditi has over 15 years of work experience in various functions, which
 includes 11+ years of experience within HR function. She is currently working
