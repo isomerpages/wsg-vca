@@ -4,6 +4,7 @@ collections:
     order:
       - Air Transport/.keep
       - Air Transport/Air Transport.md
+      - Education/Education.md
       - Education/.keep
       - Financial Services/.keep
       - Healthcare & Biomedical/.keep
