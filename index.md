@@ -36,23 +36,23 @@ sections:
           linktext: Browse Volunteer Career Advisors
           url: ""
   - textcards:
-      title: ""
+      title: "-"
       id: textcards
       cards:
-        - title: Card
+        - title: Hospitality and Tourism
           description: Card description
-          linktext: Learn more
+          linktext: Browse Volunteer Career Advisors
+          url: ""
+        - title: Infocomm and Technology
+          description: Card description
+          linktext: Browse Volunteer Career Advisors
           url: ""
         - title: Card
           description: Card description
-          linktext: Learn more
+          linktext: Browse Volunteer Career Advisors
           url: ""
         - title: Card
           description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
+          linktext: Browse Volunteer Career Advisors
           url: ""
 ---
