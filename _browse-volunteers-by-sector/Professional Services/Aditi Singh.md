@@ -24,3 +24,6 @@ upskilled herself with a Masters degree and then got back into workforce.
 She considers herself fortunate as she looks back at her journey. Being
 given the opportunity to be a Volunteer career advisory she would like
 to give it back to the community.</p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/67074e265b72991ce98b0a19"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p>
