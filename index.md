@@ -9,12 +9,13 @@ sections:
   - hero:
       title: Navigate Your Career Journey with Polaris by VCA
       subtitle: One-on-one career guidance from an industry veteran
-      background: /images/hero-banner.png
-      variant: side
+      background: /images/Untitled_design__1_.png
+      variant: floating
       size: md
-      backgroundColor: gray
+      backgroundColor: white
       button: About Polaris by VCA
       url: /about-polaris-by-vca/
+      alignment: left
   - textcards:
       title: Advanced Manufacturing & Trade Cluster
       id: textcards
