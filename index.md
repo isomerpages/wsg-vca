@@ -43,7 +43,7 @@ sections:
         - title: Healthcare & Biomedical
           description: ""
           linktext: Browse Volunteer Career Advisors
-          url: ""
+          url: /rena-oh/
   - textcards:
       title: Urban Systems Cluster
       id: textcards
