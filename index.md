@@ -67,7 +67,7 @@ sections:
         - title: Marketing & Branding
           description: ""
           linktext: Browse Volunteer Career Advisors
-          url: ""
+          url: /jackie-they/
         - title: Professional Services
           description: ""
           linktext: Browse Volunteer Career Advisors
