@@ -22,7 +22,7 @@ sections:
         - title: Manufacturing
           description: ""
           linktext: Browse Volunteer Career Advisors
-          url: ""
+          url: /clea-goh/
       subtitle: BROWSE VOLUNTEERS BY SECTOR
   - textcards:
       title: Connectivity Cluster
