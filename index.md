@@ -51,7 +51,7 @@ sections:
         - title: Real Estate
           description: ""
           linktext: Browse Volunteer Career Advisors
-          url: ""
+          url: /colleen-chin/
   - textcards:
       title: Modern Services Cluster
       id: textcards
