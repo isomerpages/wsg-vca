@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Air Transport/.keep
+      - Education/Benjamin Daud Cassim.md
       - Education/.keep
       - Financial Services/.keep
       - Healthcare & Biomedical/.keep
