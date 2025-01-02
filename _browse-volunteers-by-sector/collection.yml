@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Air Transport/.keep
+      - Education/Choong Fong Ling.md
       - Education/Benjamin Daud Cassim.md
       - Education/.keep
       - Financial Services/Allen Zheng.md
