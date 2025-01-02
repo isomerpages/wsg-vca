@@ -79,7 +79,7 @@ sections:
         - title: Hotel
           description: ""
           linktext: Browse Volunteer Career Advisors
-          url: ""
+          url: /priscilla-puah/
         - title: Retail
           description: ""
           linktext: Browse Volunteer Career Advisors
