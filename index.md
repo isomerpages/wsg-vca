@@ -31,7 +31,7 @@ sections:
         - title: Air Transport
           description: ""
           linktext: Browse Volunteer Career Advisors
-          url: ""
+          url: /kevin-chong/
   - textcards:
       title: Human Health & Potential Cluster
       id: textcards
