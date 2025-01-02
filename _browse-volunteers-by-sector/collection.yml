@@ -2,6 +2,7 @@ collections:
   browse-volunteers-by-sector:
     output: true
     order:
+      - Air Transport/Kevin Chong.md
       - Air Transport/.keep
       - Education/Choong Fong Ling.md
       - Education/Benjamin Daud Cassim.md
