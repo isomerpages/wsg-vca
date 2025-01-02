@@ -63,7 +63,7 @@ sections:
         - title: Infocomm and Technology
           description: ""
           linktext: Browse Volunteer Career Advisors
-          url: ""
+          url: /anisha-guptey/
         - title: Marketing & Branding
           description: ""
           linktext: Browse Volunteer Career Advisors
