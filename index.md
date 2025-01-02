@@ -88,10 +88,6 @@ sections:
       title: Others
       id: textcards
       cards:
-        - title: Human Resource
-          description: ""
-          linktext: Browse Volunteer Career Advisors
-          url: ""
         - title: Public Service
           description: ""
           linktext: Browse Volunteer Career Advisors
