@@ -39,7 +39,7 @@ sections:
         - title: Education
           description: ""
           linktext: Browse Volunteer Career Advisors
-          url: ""
+          url: /benjamin-daud-cassim/
         - title: Healthcare & Biomedical
           description: ""
           linktext: Browse Volunteer Career Advisors
