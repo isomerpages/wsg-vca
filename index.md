@@ -16,11 +16,4 @@ sections:
       button: About Polaris by VCA
       url: /about-polaris-by-vca/
       alignment: left
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
