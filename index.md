@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Navigate Your Career Journey with Polaris by VCA
       subtitle: One-on-one career guidance from an industry veteran
-      background: /images/Untitled_design__3_.png
+      background: /images/Untitled_design__6_.png
       variant: side
       size: md
       backgroundColor: white
