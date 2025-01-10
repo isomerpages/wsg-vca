@@ -5,6 +5,17 @@ variant: tiptap
 description: ""
 third_nav_title: Infocomm & Technology
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Profile Photos/Ashwini_Prasad_Krishnamurthy_1_copy.jpg">
+</div>
+<blockquote>
+<p></p>
+<p><strong>Ashwini Prasad Krishnamurthy</strong>
+</p>
+<p>Global Consulting Partner and Strategic Alliances Lead, UiPath</p>
+</blockquote>
+<p></p>
 <p>Ashwini has nearly two decades of experience in technology and consulting,
 where she has built a strong reputation for driving successful go-to-market
 strategies and fostering partnerships with key players in the tech ecosystem.</p>
@@ -21,8 +32,5 @@ in Tech Awards (2020), and the Women in ICT Awards by Channel Asia (2021).</p>
 side as an aspiring artist and loves photography. She also has a strong
 commitment to mentorship, helping others grow and succeed in their careers.</p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f324228247165f5398b25"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
