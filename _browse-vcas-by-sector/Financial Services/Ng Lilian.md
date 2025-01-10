@@ -8,11 +8,11 @@ third_nav_title: Financial Services
 <blockquote>
 <p></p>
 <p></p>
-<p><strong>Lilian Ng</strong>
+<p><strong>Ng Lillian</strong>
 </p>
-<p><strong>Global Lead, Talent Attraction and Development </strong>
+<p><strong>Global Lead, Talent Attraction and Development</strong>
 </p>
-<p><strong>JERA Global Markets </strong>
+<p><strong>JERA Global Markets</strong>
 </p>
 </blockquote>
 <p></p>
