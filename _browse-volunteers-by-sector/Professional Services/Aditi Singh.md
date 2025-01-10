@@ -6,9 +6,11 @@ description: ""
 third_nav_title: Professional Services
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Aditi_Singh.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Profile Photos/Singh_Aditi_Ajit_Pal_1_copy.jpg">
 </div>
+<p></p>
 <p>Aditi has over 15 years of work experience in various functions, which
 includes 11+ years of experience within HR function. She is currently working
 for Gartner Research &amp; Advisory as their HR Business partner. As a
