@@ -11,6 +11,14 @@ third_nav_title: Professional Services (HR)
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Profile Photos/Singh_Aditi_Ajit_Pal_1_copy.jpg">
 </div>
 <p></p>
+<blockquote>
+<p><strong>Aditi Singh</strong>
+</p>
+<p><strong>HR Business Partner</strong>
+</p>
+<p><strong>Gartner</strong>
+</p>
+</blockquote>
 <p>Aditi has over 15 years of work experience in various functions, which
 includes 11+ years of experience within HR function. She is currently working
 for Gartner Research &amp; Advisory as their HR Business partner. As a
