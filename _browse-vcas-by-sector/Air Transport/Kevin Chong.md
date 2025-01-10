@@ -9,6 +9,15 @@ third_nav_title: Air Transport
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Profile Photos/Kevin_Chong_1_copy.jpg">
 </div>
+<blockquote>
+<p></p>
+<p><strong>Kevin Chong</strong>
+</p>
+<p><strong>Learning and Organisational Development Manager</strong>
+</p>
+<p><strong>Changi Airport Group</strong>
+</p>
+</blockquote>
 <p>With over a decade of experience spanning both public and private sectors,
 Kevin has successfully transitioned from developing spatial experiences
 to developing people and organisations. His mission? To help others discover
