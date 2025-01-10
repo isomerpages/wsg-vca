@@ -2,8 +2,10 @@ collections:
   browse-vcas-by-sector:
     output: true
     order:
-      - Air Transport/Kevin Chong.md
       - Air Transport/.keep
+      - Air Transport/Kevin Chong.md
+      - Biopharmaceuticals/.keep
+      - Biopharmaceuticals/Rena Oh.md
       - Education/.keep
       - Education/Benjamin Daud Cassim.md
       - Education/Choong Fong Ling.md
@@ -11,10 +13,8 @@ collections:
       - Financial Services/.keep
       - Financial Services/Allen Zheng.md
       - Financial Services/Ng Lillian.md
-      - Biopharmaceuticals/Rena Oh.md
-      - Biopharmaceuticals/.keep
-      - Hotel/Priscilla Puah.md
       - Hotel/.keep
+      - Hotel/Priscilla Puah.md
       - Infocomm & Technology/.keep
       - Infocomm & Technology/Anisha Guptey.md
       - Infocomm & Technology/Ashwini Prasad Krishnamurthy.md
@@ -37,16 +37,16 @@ collections:
       - Manufacturing/Clea Goh.md
       - Manufacturing/Joanne Chan.md
       - Manufacturing/Sebastian Foo.md
-      - Marketing & Branding/Jackie They.md
       - Marketing & Branding/.keep
+      - Marketing & Branding/Jackie They.md
       - Professional Services (HR)/.keep
       - Professional Services (HR)/Aditi Singh.md
-      - Public Service/Tan Kok Hoe.md
       - Public Service/.keep
-      - Real Estate/Colleen Chin.md
+      - Public Service/Tan Kok Hoe.md
       - Real Estate/.keep
+      - Real Estate/Colleen Chin.md
       - Retail/.keep
       - Retail/Kat Chan.md
       - Retail/Jane Lum.md
-      - Social Service/Goh Boon Siong.md
       - Social Service/.keep
+      - Social Service/Goh Boon Siong.md
