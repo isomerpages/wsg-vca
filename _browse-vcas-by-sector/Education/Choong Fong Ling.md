@@ -13,10 +13,8 @@ third_nav_title: Education
 <p></p>
 <p><strong>Choong Fong Ling</strong>
 </p>
-<p><strong>Director (Communications &amp; Marketing)</strong>
-</p>
-<p><strong>Singapore University of Social Sciences</strong>
-</p>
+<p>Director (Communications &amp; Marketing), Singapore University of Social
+Sciences</p>
 </blockquote>
 <p>Fong Ling is a consummate communications and marketing practitioner. She
 spent a large part of her career building, leading and mentoring teams
