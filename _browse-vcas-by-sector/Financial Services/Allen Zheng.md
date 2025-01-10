@@ -13,10 +13,7 @@ third_nav_title: Financial Services
 <blockquote>
 <p><strong>Allen Zheng</strong>
 </p>
-<p><strong>Legal &amp; Compliance Officer</strong>
-</p>
-<p><strong>Licensed Fund Management Company</strong> 
-</p>
+<p>Legal &amp; Compliance Officer, Licensed Fund Management Company</p>
 </blockquote>
 <p></p>
 <p>With over 15 years of progressive experience principally within investment
