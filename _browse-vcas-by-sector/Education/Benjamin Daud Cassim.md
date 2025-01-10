@@ -13,10 +13,7 @@ third_nav_title: Education
 <blockquote>
 <p><strong>Benjamin Cassim</strong>
 </p>
-<p><strong>Senior Lecturer</strong>
-</p>
-<p><strong>Temasek Polytechnic</strong>
-</p>
+<p>Senior Lecturer, Temasek Polytechnic</p>
 </blockquote>
 <p>As an academic, Benjamin is responsible for development and updating the
 hospitality and tourism-related curriculum to account for key ongoing changes
