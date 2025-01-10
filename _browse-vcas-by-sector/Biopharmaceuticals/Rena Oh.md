@@ -5,3 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: Biopharmaceuticals
 ---
+<blockquote>
+<p><strong>Rena Oh</strong>
+</p>
+<p><strong>Head, HR </strong>
+</p>
+<p><strong>Easmed Pte Ltd </strong>
+</p>
+</blockquote>
+<p>Rena is an experienced HR professional with a demonstrated history of
+working in various SMEs and MNCs companies. Rena has more than 17 years
+of experience in the HR spectrum in both the private and public sectors.
+She is an Associate Certified Coach–ICF Singapore, IHRP–SP and is certified
+in Advanced Certificate in Training and Assessment (ACTA).</p>
+<p>Rena is passionate about career coaching and helping others to work through
+their work challenges.</p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3aeb591c8c2780f0a744"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p>
