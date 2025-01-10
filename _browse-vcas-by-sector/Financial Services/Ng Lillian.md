@@ -10,10 +10,7 @@ third_nav_title: Financial Services
 <p></p>
 <p><strong>Ng Lillian</strong>
 </p>
-<p><strong>Global Lead, Talent Attraction and Development</strong>
-</p>
-<p><strong>JERA Global Markets</strong>
-</p>
+<p>Global Lead, Talent Attraction and Development, JERA Global Markets</p>
 </blockquote>
 <p></p>
 <p>Lilian has more than 20 years of corporate experience in the Asia Pacific
