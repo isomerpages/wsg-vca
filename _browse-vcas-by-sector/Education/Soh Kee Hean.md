@@ -13,10 +13,8 @@ third_nav_title: Education
 <blockquote>
 <p><strong>Soh Kee Hean</strong>
 </p>
-<p><strong>Head, Certificate/Minor in Criminal Investigation, School of Humanities and Behavioural Sciences</strong>
-</p>
-<p><strong>Singapore University of Social Sciences </strong>
-</p>
+<p>Head, Certificate/Minor in Criminal Investigation, School of Humanities
+and Behavioural Sciences, Singapore University of Social Sciences</p>
 </blockquote>
 <p></p>
 <p>I am currently an academic in the Singapore University of Social Sciences,
