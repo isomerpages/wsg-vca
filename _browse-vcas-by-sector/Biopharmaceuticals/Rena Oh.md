@@ -8,10 +8,8 @@ third_nav_title: Biopharmaceuticals
 <blockquote>
 <p><strong>Rena Oh</strong>
 </p>
-<p><strong>Head, HR </strong>
-</p>
-<p><strong>Easmed Pte Ltd </strong>
-</p>
+<p>Head, HR</p>
+<p>Easmed Pte Ltd</p>
 </blockquote>
 <p>Rena is an experienced HR professional with a demonstrated history of
 working in various SMEs and MNCs companies. Rena has more than 17 years
