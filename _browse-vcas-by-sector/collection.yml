@@ -1,5 +1,5 @@
 collections:
-  browse-volunteers-by-sector:
+  browse-vcas-by-sector:
     output: true
     order:
       - Air Transport/Kevin Chong.md
