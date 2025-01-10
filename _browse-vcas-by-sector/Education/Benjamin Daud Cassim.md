@@ -9,6 +9,15 @@ third_nav_title: Education
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Profile Photos/Benjamin_Daud_Cassim_1_copy.jpg">
 </div>
+<p></p>
+<blockquote>
+<p><strong>Benjamin Cassim</strong>
+</p>
+<p><strong>Senior Lecturer</strong>
+</p>
+<p><strong>Temasek Polytechnic</strong>
+</p>
+</blockquote>
 <p>As an academic, Benjamin is responsible for development and updating the
 hospitality and tourism-related curriculum to account for key ongoing changes
 taking place in the industry. He is also a part of the Diploma’s teaching
