@@ -7,7 +7,7 @@ third_nav_title: Infocomm & Technology
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Profile Photos/Eugene_Ho_1_copy.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Profile Photos/Eugene_Ho_1_copy.jpg">
 </div>
 <p></p>
 <blockquote>
