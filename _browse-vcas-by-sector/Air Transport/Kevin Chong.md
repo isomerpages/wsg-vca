@@ -13,10 +13,7 @@ third_nav_title: Air Transport
 <p></p>
 <p><strong>Kevin Chong</strong>
 </p>
-<p><strong>Learning and Organisational Development Manager</strong>
-</p>
-<p><strong>Changi Airport Group</strong>
-</p>
+<p>Learning and Organisational Development Manager, Changi Airport Group</p>
 </blockquote>
 <p>With over a decade of experience spanning both public and private sectors,
 Kevin has successfully transitioned from developing spatial experiences
