@@ -10,6 +10,7 @@ third_nav_title: Education
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Profile Photos/Choong_Fong_Ling_2_copy.jpg">
 </div>
 <blockquote>
+<p></p>
 <p><strong>Choong Fong Ling</strong>
 </p>
 <p><strong>Director (Communications &amp; Marketing)</strong>
