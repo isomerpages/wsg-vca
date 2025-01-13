@@ -8,8 +8,7 @@ third_nav_title: Infocomm & Technology
 <blockquote>
 <p><strong>Melissa Hoe</strong>
 </p>
-<p>Senior People Operations Specialist</p>
-<p>UiPath Pte Ltd</p>
+<p>Senior People Operations Specialist, UiPath</p>
 </blockquote>
 <p></p>
 <p>Melissa is a HR practitioner who has worked in various specialisations
