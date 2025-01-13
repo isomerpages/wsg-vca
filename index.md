@@ -8,12 +8,18 @@ notification: ""
 sections:
   - hero:
       title: Navigate Your Career Journey with Polaris by VCA
-      subtitle: One-on-one career guidance from an industry veteran
+      subtitle: One-on-one career guidance from a Workforce Singapore's Volunteer
+        Career Advisor (VCA)
       background: /images/homepage image.png
       variant: side
       size: md
       backgroundColor: white
-      button: About Polaris by VCA
-      url: /about-polaris-by-vca/
       alignment: left
+      key_highlights:
+        - title: ABOUT POLARIS BY VCA
+          description: Programme info, eligibility
+          url: /about-polaris-by-vca/
+        - title: DOWNLOAD PROGRAMME KIT
+          description: Programme kit for students
+          url: ""
 ---
