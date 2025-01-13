@@ -5,9 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Real Estate
 ---
+<blockquote>
 <p><strong>Colleen Chin</strong>
 </p>
 <p>VP (Group Learning), CapitalLand</p>
+</blockquote>
 <p></p>
 <p>Colleen has more than 25 years of working experience in Learning &amp;
 Development Functions of organisations with global presence. These organisations
