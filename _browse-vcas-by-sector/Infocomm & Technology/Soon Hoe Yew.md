@@ -6,6 +6,13 @@ description: ""
 third_nav_title: Infocomm & Technology
 ---
 <blockquote>
+<p></p>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Profile Photos/Soon_Hoe_Yew_2_copy.jpg">
+</div>
+<blockquote>
+<p></p>
 <p><strong>Soon Hoe Yew</strong>
 </p>
 <p>Senior Manager, Microsoft</p>
