@@ -21,7 +21,7 @@ third_nav_title: Social Service
 do family. My dad is mentally challenged, my mum worked as a factory operator.
 I grew up under the care of my grandfather who is a director of the temple.</p>
 <p>I remember my primary school motto, “do the best we can” it is simple
-yet left a deep impact in me growing up pursuing excellence. My mum love
+yet left a deep impact in me growing up pursuing excellence. My mum's love
 for me to buy $96 custom-made table tennis bat for me after knowing that
 I made it to the school team at primary 3 had made a positive difference.</p>
 <p>I got a DSA offer to a SAP school where a kind teacher showed care to
