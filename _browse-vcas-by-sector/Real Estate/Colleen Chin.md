@@ -6,6 +6,13 @@ description: ""
 third_nav_title: Real Estate
 ---
 <blockquote>
+<p></p>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Colleen Chin" src="https://res.cloudinary.com/glide/image/fetch/f_auto,w_1425,h_1425,c_lfill,g_faces/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2Fm4M9vbe5zXPGyjuflnNi%2Fpub%2FkvkD883OCKQZC6Vhm1Hr.png">
+</div>
+<blockquote>
+<p></p>
 <p><strong>Colleen Chin</strong>
 </p>
 <p>VP (Group Learning), CapitalLand</p>
