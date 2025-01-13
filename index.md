@@ -21,5 +21,5 @@ sections:
           url: /about-polaris-by-vca/
         - title: DOWNLOAD PROGRAMME KIT
           description: Programme kit for students
-          url: https://file.go.gov.sg/pvcaprogkit
+          url: https://file.go.gov.sg/pvcaprogkit.pdf
 ---
