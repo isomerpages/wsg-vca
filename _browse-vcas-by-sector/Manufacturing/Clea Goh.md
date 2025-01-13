@@ -6,6 +6,13 @@ description: ""
 third_nav_title: Manufacturing
 ---
 <blockquote>
+<p></p>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Profile Photos/Clea_Goh_1_copy.jpg">
+</div>
+<blockquote>
+<p></p>
 <p><strong>Clea Goh</strong>
 </p>
 <p>HR Manager, Konecranes</p>
