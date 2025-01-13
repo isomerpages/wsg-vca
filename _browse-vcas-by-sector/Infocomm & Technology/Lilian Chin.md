@@ -8,8 +8,7 @@ third_nav_title: Infocomm & Technology
 <blockquote>
 <p><strong>Lilian Chin</strong>
 </p>
-<p>Director, Talent Programs</p>
-<p>VISA</p>
+<p>Director, Talent Programs, VISA</p>
 </blockquote>
 <p></p>
 <p>Lilian heads up the Early Careers function in her current organisation,
