@@ -10,8 +10,11 @@ third_nav_title: Retail
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Profile Photos/Jane_Lum_2_copy.jpg">
 </div>
 <p></p>
-<p>Jane Lum</p>
+<blockquote>
+<p><strong>Jane Lum</strong>
+</p>
 <p>Director Head of Human Resources, Shilla Travel Retail Singapore</p>
+</blockquote>
 <p></p>
 <p>Jane has been in the retail industry for most of her 20-year career, spanning
 all retail formats, from focused brand companies to multi-brand retailer.
