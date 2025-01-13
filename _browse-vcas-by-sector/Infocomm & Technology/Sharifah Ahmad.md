@@ -8,8 +8,7 @@ third_nav_title: Infocomm & Technology
 <blockquote>
 <p><strong>Sharifah Ahmad</strong>
 </p>
-<p>Chief Marketing Officer and Head of Global Projects</p>
-<p>Torque Video Systems</p>
+<p>Chief Marketing Officer and Head of Global Projects, Torque Video Systems</p>
 <p></p>
 </blockquote>
 <p>Sharifah gets a buzz out of uplifting others to boost their morale; allowing
