@@ -8,8 +8,7 @@ third_nav_title: Infocomm & Technology
 <blockquote>
 <p><strong>Kelvin Chin</strong>
 </p>
-<p>Regional Director</p>
-<p>Xage Security</p>
+<p>Regional Director, Xage Security</p>
 </blockquote>
 <p></p>
 <p>• Multidisciplinary thinker with both business &amp; technical acumen.</p>
