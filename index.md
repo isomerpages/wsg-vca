@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Polaris by VCA
+title: Workforce Singapore's Polaris by VCA
 description: Brief site description here
 image: /images/20241129_WSG_Polaris_Logo_by_Workforce_Singapore_s_Volunteer_Career_Advisors_FA_path.jpg
 permalink: /
