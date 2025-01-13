@@ -6,6 +6,13 @@ description: ""
 third_nav_title: Infocomm & Technology
 ---
 <blockquote>
+<p></p>
+</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Melissa Hoe" src="https://res.cloudinary.com/glide/image/fetch/f_auto,w_1425,h_1425,c_lfill,g_faces/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FoO3BVxu31BIejjDjpF2U%2Fpub%2FVmpBhuH9SHO9ZVpPrbrf.jpg">
+</div>
+<blockquote>
+<p></p>
 <p><strong>Melissa Hoe</strong>
 </p>
 <p>Senior People Operations Specialist, UiPath</p>
