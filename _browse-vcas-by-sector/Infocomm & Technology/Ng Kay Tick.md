@@ -13,8 +13,7 @@ third_nav_title: Infocomm & Technology
 <blockquote>
 <p><strong>Ng Kay Tick</strong>
 </p>
-<p>Head of Solution Engineering</p>
-<p>Samsung SDS Asia Pacific Pte Ltd</p>
+<p>Head of Solution Engineering, Samsung SDS Asia Pacific</p>
 </blockquote>
 <p></p>
 <p>With over 20 years of experience in the technology industry, Kay Tick
