@@ -10,10 +10,12 @@ third_nav_title: Infocomm & Technology
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Profile Photos/Ng_Chee_Chiu_1_copy.jpg">
 </div>
 <p></p>
+<blockquote>
 <p><strong>Ng Chee Chiu</strong>
 </p>
 <p>Project Director / Founder</p>
 <p>Websparks Pte Ltd</p>
+</blockquote>
 <p></p>
 <p>Ng Chee Chiu is the Founder and Project Director of Websparks, an award-winning
 creative agency that helps government agencies, education institutes and
