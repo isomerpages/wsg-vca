@@ -9,9 +9,12 @@ third_nav_title: Public Service
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Profile Photos/Tan_Kok_Hoe_1_copy.jpg">
 </div>
+<blockquote>
 <p></p>
-<p>Tan Kok Hoe</p>
+<p><strong>Tan Kok Hoe</strong>
+</p>
 <p>Director (Corporate Management), Ministry of Manpower</p>
+</blockquote>
 <p></p>
 <p>I have worked in the public sector for over 20 years, having been through
 a few transformation and change management exercises. I am familiar with
