@@ -40,5 +40,5 @@ others to find purpose and satisfaction in their professional lives.</p>
 <p>Connect with Kevin: Embark on your journey of discovery with Kevin. Reach
 him for personalised guidance, and let your curiosity and determination
 lead the way!</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f353c52fac86cdded3728"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f353c52fac86cdded3728"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
