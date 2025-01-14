@@ -23,7 +23,7 @@ sections:
           description: Programme kit for students
           url: https://file.go.gov.sg/pvcaprogkit.pdf
   - infopic:
-      title: Is this suitable for me?
+      title: Graduating?
       id: infopic
       description: Hear from our VCAs, Jackie They and Benjamin Cassim on what
         graduating students can take away from this programme.
