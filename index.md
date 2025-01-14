@@ -22,4 +22,13 @@ sections:
         - title: DOWNLOAD PROGRAMME KIT
           description: Programme kit for students
           url: https://file.go.gov.sg/pvcaprogkit.pdf
+  - infopic:
+      title: Is this suitable for me?
+      id: infopic
+      description: Hear from our VCAs, Jackie and Benjamin on what you can take away
+        from this programme.
+      button: WATCH NOW
+      url: https://www.dropbox.com/scl/fi/fvyoy5n7wqrieqf077b8e/WSG-Polaris-Final-white-bg.mp4?rlkey=cweu949a2cq9rwaxdratlaezb&e=3&dl=0
+      image: /images/PVCA_Video_Thumbnail.png
+      alt: Image alt text
 ---
