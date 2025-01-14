@@ -28,7 +28,7 @@ sections:
       description: Hear from our VCAs, Jackie They and Benjamin Cassim on what
         graduating students can take away from this programme.
       button: WATCH NOW
-      url: https://www.dropbox.com/scl/fi/fvyoy5n7wqrieqf077b8e/WSG-Polaris-Final-white-bg.mp4?rlkey=cweu949a2cq9rwaxdratlaezb&e=3&dl=0
+      url: https://youtu.be/jDHeRrWMRow
       image: /images/PVCA_Video_Thumbnail.png
       alt: Image alt text
 ---
