@@ -19,6 +19,9 @@ sections:
         - title: ABOUT POLARIS BY VCA
           description: Programme info, eligibility
           url: /about-polaris-by-vca/
+        - title: Read Me Before Applying
+          description: Commitment required
+          url: ""
         - title: DOWNLOAD PROGRAMME KIT
           description: Programme kit for students
           url: https://file.go.gov.sg/pvcaprogkit.pdf
