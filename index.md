@@ -19,7 +19,7 @@ sections:
         - title: ABOUT POLARIS BY VCA
           description: Programme info, eligibility
           url: /about-polaris-by-vca/
-        - title: READ ME BEFORE APPLYING
+        - title: READ THIS BEFORE APPLYING
           description: Commitment required from you
           url: ""
         - title: DOWNLOAD PROGRAMME KIT
