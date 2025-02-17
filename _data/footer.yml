@@ -1,4 +1,9 @@
 contact_us: /contact-us/
 show_reach: true
 faq: /faq/
-social_media: {}
+social_media:
+  facebook: https://www.facebook.com/workforcesingapore
+  linkedin: https://www.linkedin.com/company/workforce-singapore
+  youtube: https://www.youtube.com/workforcesingapore
+  instagram: https://www.instagram.com/workforcesingapore/
+  tiktok: https://www.tiktok.com/@workforcesingapore
