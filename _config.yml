@@ -15,7 +15,7 @@ colors:
       color: "#a05eb5"
     - title: media-color-five
       color: "#dbdddd"
-description: ""
+description: Connect with industry veterans to guide you in planning for your career!
 permalink: none
 baseurl: ""
 exclude:
@@ -53,7 +53,7 @@ staging: https://staging-lite.d1vvmfjnbvfsad.amplifyapp.com
 prod: https://master.d8zhuc1uh1o2o.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/20241129_WSG_Polaris_Logo_by_Workforce_Singapore_s_Volunteer_Career_Advisors_FA_path.jpg
-is_government: false
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
 resources_name: programme-kit
