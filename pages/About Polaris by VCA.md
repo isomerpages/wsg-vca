@@ -55,5 +55,18 @@ and entrepreneurship</p>
 </li>
 </ul>
 <p></p>
+<p><strong>Who are these VCAs?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Industry veterans who are committed to make a difference by sharing their
+experiences and providing career guidance.</p>
+</li>
+<li>
+<p>They have many years of working experience and possess extensive knowledge,
+relevant experience, and expertise in their specific sector.</p>
+</li>
+</ul>
+<p></p>
 <p>Ready to gain a head start in your career journey? Explore our VCA profiles
 and find your mentor today.</p>
