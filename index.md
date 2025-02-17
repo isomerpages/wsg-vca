@@ -21,7 +21,7 @@ sections:
           url: /about-polaris-by-vca/
         - title: READ THIS BEFORE APPLYING
           description: Commitment required from you
-          url: application-process
+          url: /application-process/
         - title: DOWNLOAD PROGRAMME KIT
           description: Programme kit for students
           url: https://file.go.gov.sg/pvcaprogkit.pdf
