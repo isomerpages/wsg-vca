@@ -1,5 +1,5 @@
 collections:
-  browse-vcas-by-sector:
+  browse-vca-by-sector:
     output: true
     order:
       - Air Transport/.keep
