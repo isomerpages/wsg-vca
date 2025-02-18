@@ -1,0 +1,50 @@
+collections:
+  browse-vcas-by-sector:
+    output: true
+    order:
+      - Air Transport/.keep
+      - Air Transport/Kevin Chong.md
+      - Biopharmaceuticals/.keep
+      - Biopharmaceuticals/Rena Oh.md
+      - Education/.keep
+      - Education/Benjamin Daud Cassim.md
+      - Education/Choong Fong Ling.md
+      - Education/Soh Kee Hean.md
+      - Financial Services/.keep
+      - Financial Services/Allen Zheng.md
+      - Financial Services/Ng Lillian.md
+      - Hospitality & Tourism/.keep
+      - Hospitality & Tourism/Priscilla Puah.md
+      - Infocomm & Technology/.keep
+      - Infocomm & Technology/Anisha Guptey.md
+      - Infocomm & Technology/Ashwini Prasad Krishnamurthy.md
+      - Infocomm & Technology/Dr Lee Hing Yan.md
+      - Infocomm & Technology/Eugene Ho.md
+      - Infocomm & Technology/Garion Kong.md
+      - Infocomm & Technology/Goh Teng Chiew.md
+      - Infocomm & Technology/Ivan Tay.md
+      - Infocomm & Technology/Jonathan Wong.md
+      - Infocomm & Technology/Kelvin Chin.md
+      - Infocomm & Technology/Lilian Chin.md
+      - Infocomm & Technology/Melissa Hoe.md
+      - Infocomm & Technology/Ng Chee Chiu.md
+      - Infocomm & Technology/Ng Kay Tick.md
+      - Infocomm & Technology/Sharifah Ahmad.md
+      - Infocomm & Technology/Soon Hoe Yew.md
+      - Infocomm & Technology/Zhou Zhihao.md
+      - Manufacturing/.keep
+      - Manufacturing/Clea Goh.md
+      - Manufacturing/Sebastian Foo.md
+      - Marketing & Branding/.keep
+      - Marketing & Branding/Jackie They.md
+      - Professional Services (HR)/.keep
+      - Professional Services (HR)/Aditi Singh.md
+      - Public Service/.keep
+      - Public Service/Tan Kok Hoe.md
+      - Real Estate/.keep
+      - Real Estate/Colleen Chin.md
+      - Retail/.keep
+      - Retail/Kat Chan.md
+      - Retail/Jane Lum.md
+      - Social Service/.keep
+      - Social Service/Goh Boon Siong.md

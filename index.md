@@ -1,32 +1,37 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Workforce Singapore's Polaris by VCA
+description: Connect with industry veterans to guide you in planning for your career!
+image: /images/20241129_WSG_Polaris_Logo_by_Workforce_Singapore_s_Volunteer_Career_Advisors_FA_path.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Navigate Your Career Journey with Polaris by VCA
+      subtitle: One-on-one career guidance from a Workforce Singapore's Volunteer
+        Career Advisor (VCA)
+      background: /images/1920_x_720__1_.png
+      variant: image
+      size: md
+      backgroundColor: gray
+      alignment: left
+      key_highlights:
+        - title: ABOUT POLARIS BY VCA
+          description: Programme info, eligibility
+          url: /about-polaris-by-vca/
+        - title: READ THIS BEFORE APPLYING
+          description: Commitment required from you
+          url: /application-process/
+        - title: DOWNLOAD PROGRAMME KIT
+          description: Programme kit for students
+          url: https://file.go.gov.sg/pvcaprogkit.pdf
+  - infopic:
+      title: Graduating?
+      id: infopic
+      description: Hear from our VCAs, Jackie They and Benjamin Cassim on what
+        graduating students can take away from this programme.
+      button: WATCH NOW
+      url: https://youtu.be/jDHeRrWMRow
+      image: /images/PVCA_Video_Thumbnail.png
+      alt: Image alt text
 ---
-
