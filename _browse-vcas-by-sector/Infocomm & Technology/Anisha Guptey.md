@@ -18,16 +18,18 @@ third_nav_title: Infocomm & Technology
 <p>Operations Manager, Talent Acquisition, Amazon Web Services</p>
 </blockquote>
 <p></p>
-<p>I am a Talent Acquisition and Operations Leader with a passion for building
-and scaling large teams. In my career so far, I’ve been privileged to interview
-and hire over 250 individuals and coach and mentor many. As an empathetic
-yet pragmatic people leader, I thrive when I can inspire each individual
-on my team to navigate ambiguity, do purposeful work, hit their desired
-outcomes and have fun while doing it! Early in my career as a manager,
-I found that coaching is a natural fit for my management style. I enjoy
-creating an environment where my team can take the time to think critically,
-find resolve amidst their challenges and tap into their inner strengths
-for empowerment. Over time, this approach became my north star – generating
-a hunger to become a better coach in the service of others.</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f31803bf6ab7c407ac88f"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p>Anisha has over a decade of experience in the talent acquisition field.
+She is passionate about scaling and building large teams, and finds immense
+satisfaction when individuals are inspired to navigate ambiguities, find
+purpose, and have fun while hitting their goals.</p>
+<p>Over the years, she has interviewed, hired and coached hundreds of candidates
+at global organisations.</p>
+<p>Rather than prescribe solutions, Anisha prefers to create an environment
+where others are able to think critically and draw on their inner strength
+to resolve challenges. This coaching-styled management approach paved the
+way for her to begin her journey as a career coach, and has become her
+“north star” guiding each interaction.</p>
+<p>With a healthy mix of both empathy and pragmatism, Anisha hopes to continue
+her journey as a coach and strives to continuously improve herself in the
+service of others.</p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f31803bf6ab7c407ac88f"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
