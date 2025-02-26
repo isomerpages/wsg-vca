@@ -5,11 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Professional Services (HR)
 ---
-<blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Profile Photos/Kat_Chan_1_copy.jpg">
 </div>
-<h2>Kat Chan</h2>
+<blockquote>
+<p><strong>Kat Chan</strong>
+</p>
+<p>HR Business Partner, Chopard (Asia) Pte Ltd</p>
 </blockquote>
+<p></p>
 <p></p>
