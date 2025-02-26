@@ -16,24 +16,18 @@ third_nav_title: Education
 <p>Director (Communications &amp; Marketing), Singapore University of Social
 Sciences</p>
 </blockquote>
-<p>Fong Ling is a consummate communications and marketing practitioner. She
-spent a large part of her career building, leading and mentoring teams
-of communications professionals in global and regional corporations in
-the whole spectrum of brand strategy, corporate communications, content
-marketing strategy development, executive leadership communications, crisis/change
-communications, media relations, change communications, government relations,
-employer branding, digital marketing, and demand generation campaign planning
-&amp; management.</p>
-<p>In 2017, she took the opportunity to contribute back to the Singapore’s
-globally well ranked education industry and joined Singapore’s newest autonomous
-university, Singapore University of Social Sciences as the Brand, Communications
-&amp; Marketing Director.</p>
-<p>Within four years, the University brand equity increased three-fold and
-continue to make an impact in lifelong learning and social good through
-its students, alumni and community and industry partners. She graduated
-from NUS with a Bachelor of Arts (Economics &amp; Linguistics), has a Graduate
-Diploma in Marketing, and is a Certified Career Service Provider (CCSP)
-with the National Career Development Association, USA.</p>
-<p></p>
+<p>Fong Ling is an experienced communications and marketing professional
+who has spent the majority of her career leading teams in global and regional
+organisations.</p>
+<p>Through these experiences, she has mastered a wide range of skills — from
+executive communications to employer branding, government relations and
+digital marketing.</p>
+<p>Her latest career move was in 2017, when she ventured into the education
+sector and joined the Singapore University of Social Sciences (SUSS). Testament
+to her skills as a marketing expert, the brand value of SUSS trippled within
+just four years of her taking the reins as Head of Brand, Communication
+and Marketing.</p>
+<p>Drawing on her wealth of experience as a leader and mentor in the field,
+Fong Ling hopes to motivate and guide others to reach their career goals.</p>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f33889b92dd01567180d3"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
