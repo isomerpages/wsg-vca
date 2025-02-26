@@ -17,20 +17,24 @@ third_nav_title: Infocomm & Technology
 </blockquote>
 <p></p>
 <p>Ashwini has nearly two decades of experience in technology and consulting,
-where she has built a strong reputation for driving successful go-to-market
-strategies and fostering partnerships with key players in the tech ecosystem.</p>
+during which she has built a strong reputation for driving successful go-to-market
+strategies and fostering strategic partnerships with key players in the
+tech ecosystem such as Cloudflare, Palo Alto Networks and Oracle among
+others.</p>
 <p>Her ability to influence others, share valuable insights, and align senior
 partners towards common goals has led her to take on various leadership
-roles, working with major clients like Accenture, Deloitte, EY, and PwC.</p>
+roles, working with major clients like Accenture, Deloitte, EY, and PwC
+in driving high-impact partnerships and delivering transformative client
+outcomes.</p>
 <p>Throughout her career, Ashwini has been a passionate advocate for equality
 and diversity. She actively supports women in tech and promotes the development
 of diverse talent in the industry.</p>
 <p>Her dedication has earned her nominations for several prestigious awards,
 including Top Women in Cybersecurity in Singapore (2020), the 100 Women
 in Tech Awards (2020), and the Women in ICT Awards by Channel Asia (2021).</p>
-<p>Outside of her professional life, Ashwini enjoys exploring her creative
-side as an aspiring artist and loves photography. She also has a strong
-commitment to mentorship, helping others grow and succeed in their careers.</p>
+<p>As a Volunteer Career Advisor, Ashwini prioritises interactive and meaningful
+discussions. She is committed to driving impactful change and empowering
+early- and mid-career professionals unlock their potentials.</p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f324228247165f5398b25"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
