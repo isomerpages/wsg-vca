@@ -16,18 +16,18 @@ third_nav_title: Retail
 <p>HR Business Partner, Chopard (Asia) Pte Ltd</p>
 </blockquote>
 <p></p>
-<p>Kat possesses more than 14 years of experience in the Human Resources
-field mainly in MNC companies. She specialises in Recruitment, Talent Management
-and assists Managers and employees to develop leadership and communication
-skills.</p>
+<p>Kat Chan is a certified MBTI practitioner, a career development and internal
+coach with over 14 years of experience in human resources. She has worked
+with global companies, refining her skills in recruitment and talent management.
+By working closely with business leaders, she has fostered strong relationships
+across organizations and maximized team performance.</p>
+<p>Kat's passion for people development fuels her continuous learning about
+human personality, reinforcing her belief in the power of core values and
+authenticity.</p>
+<p>As a Volunteer Career Advisor, Kat leverages her deep insights, empathy,
+and exceptional listening skills to inspire others to set realistic goals
+and explore exciting career possibilities.</p>
 <p></p>
-<p>Kat has always been passionate about people development. She is keen to
-journey with and guide individuals in achieving their innermost potential.
-In her personal time, she also supports the personal development of youths.</p>
-<p></p>
-<p>With her deep people insights and broad perspectives, she has what it
-takes to help individuals in need to set realistic goals. She is ready
-to listen and work with them to explore possibilities.</p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f32bd9f07cd74ccef2ce1"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
