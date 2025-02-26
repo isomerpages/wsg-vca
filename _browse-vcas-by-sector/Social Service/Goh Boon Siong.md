@@ -16,26 +16,18 @@ third_nav_title: Social Service
 <p>Lead Social Worker, Senior Manager, Youth Guidance Outreach Services</p>
 </blockquote>
 <p></p>
-<p>“If we don’t win their hearts today, they will break our hearts tomorrow.”</p>
-<p>I was once a troubled youth growing up from difficult, not so well to
-do family. My dad is mentally challenged, my mum worked as a factory operator.
-I grew up under the care of my grandfather who is a director of the temple.</p>
-<p>I remember my primary school motto, “do the best we can” it is simple
-yet left a deep impact in me growing up pursuing excellence. My mum's love
-for me to buy $96 custom-made table tennis bat for me after knowing that
-I made it to the school team at primary 3 had made a positive difference.</p>
-<p>I got a DSA offer to a SAP school where a kind teacher showed care to
-help me in my studies and by God’s grace my life was turnaround. I wanted
-to share snippet of my personal story with you to encourage you on in your
-search for purpose and meaning in life and work where I am looking forward
-to have the privilege to journey further with you :)</p>
-<p>My reason for taking up the role of a volunteer Career Advisor is I believed
-that we should leave no man behind as our society prosper and progress.
-I come on board to serve and be useful to provide sector specific knowledge
-which seek to provide greater clarity and exploring with you if there be
-a potential job fitting where you can thrive playing to your strengths
-to better help others in the social service sector alongside me!</p>
-<p>Thank you and I invite you to connect with me!</p>
-<p></p>
+<p>Boon Siong has over two decades of experience in social work and sees
+it as his calling to support children, young people, couples and families
+in difficulty—so that no one is left behind.</p>
+<p>His passion was sparked from childhood experiences. Having grown up in
+an underprivileged home, Boon Siong is no stranger to the challenges that
+families can face in navigating finances and relationships. The turning
+point in his life came in his teenage years when the combination of his
+faith and the compassion of a teacher he met helped him find his direction.
+He is now determined to pay it forward.</p>
+<p>Boon Siong’s coaching style is characterised by empathy. No matter the
+client, he hopes that his compassion speaks volumes and that he is able
+to create a safe space where people can find ways to heal and fulfil their
+potential</p>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f34327e69fe74e8324b1a"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
