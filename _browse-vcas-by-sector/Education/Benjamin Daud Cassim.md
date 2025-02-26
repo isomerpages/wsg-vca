@@ -15,21 +15,23 @@ third_nav_title: Education
 </p>
 <p>Senior Lecturer, Temasek Polytechnic</p>
 </blockquote>
-<p>As an academic, Benjamin is responsible for development and updating the
-hospitality and tourism-related curriculum to account for key ongoing changes
-taking place in the industry. He is also a part of the Diploma’s teaching
-team and lectures in a range of subjects including areas of digital marketing,
-business events management, innovation and entrepreneurship, and revenue
-management.</p>
-<p>Apart from academic responsibilities in curriculum development and teaching,
-he has also been directly involved in tourism capacity development projects
-and TVET skills and competency framework development with regional and
-provincial governments including Bangladesh, Vietnam, Cambodia and the
-Philippines’ province of Cebu.</p>
-<p>Prior to entering academia, Benjamin built a career in managing business
-events and rolling out destination marketing initiatives. He holds a Master’s
-in International Hotel and Tourism Management, and a Bachelor’s in Business
-Administration.</p>
+<p>Benjamin began his career managing business events and destination marketing
+initiatives. This sparked his interest in tourism and in 2007 he pivoted
+his career to teaching and developing the hospitality and tourism curriculum
+at Temasek Polytechnic.</p>
+<p>Today, drawing on the years of industry experience under his belt, Benjamin
+teaches a broad range of subjects, including but not limited to digital
+marketing, business events management, innovation and entrepreneurship,
+and revenue management.</p>
+<p>Outside of his academic work, Benjamin collaborates with regional and
+provincial governments in countries like Bangladesh, Vietnam, Cambodia,
+and the Philippines on tourism initiatives. This involvement allows him
+to share his knowledge and help create effective technical and vocational
+education and training (TVET) frameworks that support the growth of the
+tourism industry.</p>
+<p>With his diverse experience accumulated over three decades, Benjamin hopes
+to inspire and encourage others interested in business or tourism and looks
+forward to helping them reach their career goals.</p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f329752fac86cddec1b74"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
