@@ -5,3 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Professional Services (HR)
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Profile Photos/Kat_Chan_1_copy.jpg">
+</div>
+<h2></h2>
+<p></p>
