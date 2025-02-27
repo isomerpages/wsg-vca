@@ -15,30 +15,19 @@ third_nav_title: Air Transport
 </p>
 <p>Learning and Organisational Development Manager, Changi Airport Group</p>
 </blockquote>
-<p>With over a decade of experience spanning both public and private sectors,
-Kevin has successfully transitioned from developing spatial experiences
-to developing people and organisations. His mission? To help others discover
-their strengths and align them with their vocation.</p>
-<p>Areas of Expertise:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Career Transitions: Kevin offers to guide you through changes, drawing
-from his journey of successes and learnings.</p>
-</li>
-<li>
-<p>Skill Development: He offers practical advice on the skills you may need,
-to remain relevant in today’s dynamic job market.</p>
-</li>
-<li>
-<p>Resilience: Kevin is happy to share his strategies on how you may turn
-setbacks into progress.</p>
-</li>
-</ul>
-<p>Philosophy: Kevin believes that everyone deserves a fulfilling career.
-Having benefited from career coaching himself, he pays it forward by empowering
-others to find purpose and satisfaction in their professional lives.</p>
-<p>Connect with Kevin: Embark on your journey of discovery with Kevin. Reach
-him for personalised guidance, and let your curiosity and determination
-lead the way!</p>
+<p>With nearly a decade of experience in workforce planning and training,
+Kevin is on a mission to help others discover their strengths and align
+themselves with their vocations.</p>
+<p>Kevin describes finding his calling as something that came by accident:
+he was working in the creative industries and mentoring a candidate, guiding
+her through the development of her portfolio and advising her on her transition
+to a new role, when he realised how much he enjoyed helping others realise
+their potential. From there, he pivoted into workforce development and
+made his mark in public and private sector companies.</p>
+<p>Having been at a career crossroads himself and benefited from career coaching,
+Kevin is a firm believer that the right mentoring and advice can make a
+difference. Through his volunteer work as a career advisor, Kevin hopes
+to help others discover their strengths and find both purpose and satisfaction
+in their professional lives.</p>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f353c52fac86cdded3728"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
