@@ -16,19 +16,17 @@ third_nav_title: Infocomm & Technology
 <p>Director, G &amp; T Co</p>
 </blockquote>
 <p></p>
-<p>I have several decades of IT experiences range from code development,
-application development, application team management, system administration,
-IT operations and end-user support management, cyber security management
-to infrastructure management. Notably projects completed include implementation
-of certified IT service processes, cyber security functional capability,
-service continuity management and infrastructure virtualisation.</p>
-<p>I am open for IT career planning discussion especially on issues pertaining
-to infrastructure changes, impact of virtualisation and cloud and cybersecurity
-issues.</p>
-<p>I am a SCS career mentoring volunteer since 2019. Such mentoring activities
-keep me updated on career issues faced by existing IT workers and those
-considering switching to IT industry. By sharing my knowledge and experiences,
-I hope to assist IT career seekers in better career preparation.</p>
+<p>Teng Chiew is an IT industry veteran with over 30 years of experience
+and who specialises in infrastructure management, virtualisation, cybersecurity
+and AI Ethics &amp; Governance.</p>
+<p>He has personally experienced the rise of the digital wave, the resulting
+transformation of the business landscape and the boons and banes that come
+with it. This gave him the chance to cut his teeth in a diverse range areas
+such as code development, system administration, end-user support, cybersecurity,
+and infrastructure management and more.</p>
+<p>In 2019, Teng Chiew started to give back to the sector through career
+mentoring. He hopes that he can use his wealth of experience to help others
+find meaningful and fulfilling work in the IT industry.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f34af60768f7e8d7a52b6"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f34af60768f7e8d7a52b6"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
