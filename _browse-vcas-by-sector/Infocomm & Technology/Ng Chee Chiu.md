@@ -16,14 +16,16 @@ third_nav_title: Infocomm & Technology
 <p>Project Director / Founder, Websparks Pte Ltd</p>
 </blockquote>
 <p></p>
-<p>Ng Chee Chiu is the Founder and Project Director of Websparks, an award-winning
-creative agency that helps government agencies, education institutes and
-multinational corporations deploy efficient web portals.&nbsp;With over
-18 years of web development experience, he is focused on building cutting-edge
-web products. Chee Chiu is both a certified ScrumMaster, certified LeSS
-Practitioner and a Project Management Professional (PMP).&nbsp;As a volunteer
-at NUS, Chee Chiu is passionate about mentoring the next generation of
-industry leaders.</p>
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f359055b304aff4ac675a"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p>Chee Chiu has over 20 years of web development expertise under his belt
+and is the founder of Websparks, a creative agency specialising in the
+development of web products.</p>
+<p>He graduated with a computer science degree and over the years, has continuously
+honed his skills in computer science, business and leadership, growing
+Websparks into an award-winning creative agency with nearly 100 employees
+and an impressive client base of government agencies and multinational
+companies. He is also officially certified as a ScrumMaster, LeSS Practitioner
+and Project Management Professional.</p>
+<p>Familiar with the courage and tenacity that one needs to succeed as a
+businessman, Chee Chiu hopes to share his experiences and guide other entrepreneurs
+to find success.</p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f359055b304aff4ac675a"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
