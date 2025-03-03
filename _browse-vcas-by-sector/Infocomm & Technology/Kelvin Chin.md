@@ -18,20 +18,16 @@ third_nav_title: Infocomm & Technology
 <p>Regional Director, Xage Security</p>
 </blockquote>
 <p></p>
-<p>• Multidisciplinary thinker with both business &amp; technical acumen.</p>
-<p>• Focuses on Cybersecurity, OT-IIOT-IT, Net Zero, Cloud &amp; blockchain
-initiatives across industry sectors.</p>
-<p>• Ability to execute from strategy right through to grassroots level.</p>
-<p>• Self-starter and entrepreneurial with contacts to directly engage hands
-on.</p>
-<p>• Coach to specialist teams for technical solutions &amp; consulting services.</p>
-<p>• Track record of business and product incubation growth across cyber
-risk management, cloud and applications during inception stage.</p>
-<p>• Provided Go to market coaching including market analysis, MVP and product-market
-fit positioning</p>
-<p>• Curate, coach and connect start-ups looking to grow in Asia</p>
-<p>• Trekked &amp; scaled 4 of the top mountain peaks in Thailand.</p>
-<p>• Focus on building the Singapore core</p>
+<p>Kelvin is a technology sector veteran with over two decades of diverse
+experience spanning across Fortune 100 companies and start-ups.</p>
+<p>Over the years, he has successfully helped companies develop technology
+products—from cybersecurity solutions to cloud applications—to drive business
+growth.</p>
+<p>Today, Kelvin specialises in consulting and coaching teams on cybersecurity,
+cloud and blockchain initiatives across industries.</p>
+<p>With his extensive experience and wide-ranging industry network, he hopes
+to help more start-ups gain a foothold in Asia and play his part in building
+the Singapore core.</p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f32e6e7b72f64b6a3f2bc"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>

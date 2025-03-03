@@ -32,8 +32,8 @@ their background and expertise.</p>
 on their profile.</p>
 </li>
 <li>
-<p>Fill in the connection request form. The VCA will contact you within a
-week.</p>
+<p>Fill in and submit the connection request form. The VCA will contact you
+within a week of your submission.</p>
 </li>
 <li>
 <p>While waiting for a response, download the programme kit and start reflecting
@@ -48,12 +48,12 @@ career planning advice, not job opportunities.</p>
 </li>
 <li>
 <p>If a VCA is unable to accept your connection request, the Workforce Singapore
-(WSG) team may contact you with alternative options.</p>
+(WSG) team will contact you with alternative options.</p>
 </li>
 <li>
-<p>We recommend for physical meet-ups to be conducted on campus, or at Careers
-Connect @ Lifelong Learning Institute (Mon – Fri 9am - 5pm, Sat 9am – 1pm),
-or in other public venues.</p>
+<p>We recommend for physical meet-ups to be conducted at public venues such
+as Careers Connect @ Lifelong Learning Institute (Mon – Fri 9am - 5pm,
+Sat 9am – 1pm) or campus.</p>
 </li>
 </ul>
 <p>We hope that you will make the most of your Polaris by VCA experience.

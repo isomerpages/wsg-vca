@@ -18,21 +18,16 @@ third_nav_title: Manufacturing
 <p>Vice President, Corporate HR, Cosmostar Singapore</p>
 </blockquote>
 <p></p>
-<p>Sebastian is an HR professional with over 15 years of relevant experience,
-spanning multinational corporations and startups in the semiconductor and
-wholesale trade sectors.</p>
-<p>Currently, Sebastian serves as the Senior Vice President and Chief Human
-Resources Officer for a leading company in the footwear and apparel industry.
-In his role, he drives the people, audit and compliance agenda, fostering
-credible and sustainable relationships with business leaders both regionally
-and globally. His work focuses on implementing interventions and change
-initiatives that support business objectives. Grateful for the mentorship
-and coaching he has received from industry leaders, Sebastian is committed
-to paying it forward by sharing his expertise and insights.</p>
-<p>As part of the volunteer Career Advisor initiative, Sebastian is eager
-to share his personal and professional experiences with interested individuals.
-He aims to foster a sense of purpose and meaning in work, encourage tackling
-challenges, and explore new possibilities.</p>
-<p></p>
+<p>Sebastian has spent more than 15 years in human resources, compliance
+and audit, working for multinational corporations and start-ups in the
+semiconductor, manufacturing and wholesale industries before rising to
+his current role as Senior Vice President and Chief Human Resources Officer
+at a leading footwear and apparel company.</p>
+<p>In addition to leading business transformation projects, he is responsible
+for developing sustainable relationships with other leaders on a global
+and regional level.</p>
+<p>Sebastian is grateful for the mentorship and coaching he has received
+from industry leaders during his career journey and hopes to pay it forward
+by helping others find purpose in their work and explore new career opportunities.</p>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f33c99b92dd0156719f11"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>

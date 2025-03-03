@@ -25,17 +25,13 @@ and entrepreneurship</p>
 <p>Real-world advice on workplace performance and career success</p>
 </li>
 <li>
-<p>Guidance on internal job rotations and role specialisations</p>
-</li>
-<li>
 <p>Access to industry knowledge and professional networks</p>
 </li>
 <li>
 <p>Personalised career planning with a career development plan</p>
-<p></p>
 </li>
 </ul>
-<p><strong>Polaris by VCA is designed for young workforce entrants professionals who are:</strong>
+<p><strong>Polaris by VCA is designed for young workforce entrants who are:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -54,7 +50,6 @@ and entrepreneurship</p>
 <p>Motivated to build resilience in a volatile job market</p>
 </li>
 </ul>
-<p></p>
 <p><strong>Who are these VCAs?</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -67,6 +62,5 @@ experiences and providing career guidance.</p>
 relevant experience, and expertise in their specific sector.</p>
 </li>
 </ul>
-<p></p>
-<p>Ready to gain a head start in your career journey? Explore our VCA profiles
-and find your mentor today.</p>
+<p>Ready to gain a head start in your career journey? Browse through our
+VCA profiles and find your mentor today.</p>
