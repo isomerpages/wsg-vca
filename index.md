@@ -10,7 +10,7 @@ sections:
       title: Navigate Your Career Journey with Polaris by VCA
       subtitle: One-on-one career guidance from a Workforce Singapore's Volunteer
         Career Advisor (VCA)
-      background: /images/1920_x_720__5_.png
+      background: /images/1920_x_720__6_.png
       variant: image
       size: md
       backgroundColor: gray
