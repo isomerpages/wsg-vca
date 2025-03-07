@@ -33,5 +33,5 @@ or informal coffee chats. For her, there is nothing more satisfying than
 helping others and seeing them make a difference in their personal or professional
 lives.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3360fa52e54113d34626"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3360fa52e54113d34626"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
