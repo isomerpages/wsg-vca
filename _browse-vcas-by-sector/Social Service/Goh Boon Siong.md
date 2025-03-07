@@ -29,5 +29,5 @@ He is now determined to pay it forward.</p>
 client, he hopes that his compassion speaks volumes and that he is able
 to create a safe space where people can find ways to heal and fulfil their
 potential.</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f34327e69fe74e8324b1a"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f34327e69fe74e8324b1a"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
