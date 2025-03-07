@@ -14,7 +14,20 @@ third_nav_title: Professional Services (HR)
 </p>
 <p>Director Head of Human Resources, Shilla Travel Retail Singapore</p>
 </blockquote>
-<p></p>
+<p>Jane’s passion for both beauty and people led her to a human resources
+role in the retail industry, where she has spent almost 20 years honing
+her skills in different retail formats.</p>
+<p>Her keen sense of people management, planning and recruitment has helped
+global organisations build their talent pools, grow their businesses and
+even launch new brands.</p>
+<p>In 2019, Jane moved into her most recent role as Director, Head of Human
+Resources at Shilla Travel Retail where she works closely with international
+beauty brands.</p>
+<p>Jane enjoys journaling her insights when reflecting on her career journey.
+Through regular sharing and her volunteer work as a career counsellor,
+she hopes to help others discover their passions and find fulfilment in
+their careers. As she aptly puts it: “The best reward is to see growth
+in the people you coach and mentor."</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png">
