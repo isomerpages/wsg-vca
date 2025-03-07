@@ -16,27 +16,21 @@ third_nav_title: Infocomm & Technology
 <p><strong>Sharifah Ahmad</strong>
 </p>
 <p>Chief Marketing Officer and Head of Global Projects, Torque Video Systems</p>
-<p></p>
 </blockquote>
-<p>Sharifah gets a buzz out of uplifting others to boost their morale; allowing
-them to recognise their unique abilities, motivations and opportunities.</p>
-<p></p>
-<p>Having switched job roles and industries, she understands that barriers
-and bias can be daunting. Working alongside Workforce Singapore and its
-myriad of accessible initiatives and resources, she aims to facilitate
-a positive support system for job seekers and those considering career
-moves and/or advancements.</p>
-<p></p>
-<p>Sharifah currently serves as the CMO and Head of Global projects for a
-broadcast engineering MNC headquartered in Singapore. In that capacity,
-she orchestrates all aspects of publicity, drives brand growth, oversees
-project management and operational execution.</p>
-<p></p>
-<p>Thanks to a supportive work environment, Sharifah lives the spirit of
-volunteerism through various community services. She also volunteers as
-an advisor for the youth academic, career/leadership initiatives, mentors
-and sits on the board of the RISE APAC Mentoring Programme for women in
-the media technology sector.</p>
-<p></p>
+<p>With over two decades of experience in marketing communications, Sharifah
+has a deep understanding of marketing communications. She is now the Chief
+Marketing Officer and Head of Global Projects at a broadcast engineering
+MNC, leading strategic marketing vision and execution while overseeing
+key projects and operations.</p>
+<p>Her career journey has exposed her to the challenges and roadblocks in
+the workforce, fuelling her motivation to guide others to navigate and
+overcome barriers and bias.</p>
+<p>Beyond her professional capacity, Sharifah lends a hand in fostering growth
+and illuminating one’s true self-worth. She volunteers as a career coach
+and advisor for youth academic, career and leadership initiatives. Additionally,
+she sits on the board of the RISE APAC Mentoring Programme for women in
+the media technology sector and actively participates in mentoring sessions.
+She enjoys inspiring a strive-and-thrive rhythm to realize potential and
+explore meaningful opportunities that resonate with set goals.</p>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3c643bcc16aeaba5e6f3"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
