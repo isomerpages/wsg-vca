@@ -17,19 +17,21 @@ third_nav_title: Education
 and Behavioural Sciences, Singapore University of Social Sciences</p>
 </blockquote>
 <p></p>
-<p>I am currently an academic in the Singapore University of Social Sciences,
-teaching subjects such as governance and corruption, policing and crime.
-Prior to that, I spent three decades in the public service, working in
-different environments in the Police Force, CPIB, Home Team Academy, Ministry
-of Home Affairs and the Council for Estate Agencies.</p>
-<p>I have experience in many areas, including leadership, policy, planning,
-operations, procurement, project management, technology and training. I
-have worked with industry partners and with the private sector, for eg
-those in the ICT industry, security industry and real estate sector. I
-continue to keep in touch with a network in the public and the private
-sectors. I have received help and learnt much throughout my career.</p>
-<p>With what I have gathered, I hope to value add and help others who are
-looking for direction and a way forward.</p>
+<p>Kee Hean is currently an academic with three decades of experience in
+the public service, during which time he built his expertise in topics
+such as governance, corruption and crime.</p>
+<p>His time in the public service saw him move between organisations such
+as the Singapore Police Force, Practices Investigation Bureau, Ministry
+of Home Affairs, Prisons Service and Council for Estate Agencies. These
+experiences honed his skills across a wide range of areas, including leadership,
+policy, corporate planning, training and project management. They also
+opened his eyes to operations in the ICT, security and real estate sectors.</p>
+<p>In 2020, Kee Kean pivoted his career to academia. He joined Singapore
+University of Social Sciences, where he now teaches subjects to do with
+governance, corruption, policing, crime, public safety and security.</p>
+<p>Kee Hean acknowledges that his career journey was only made possible because
+of the guidance and support he received along the way. As a Volunteer Career
+Advisor, he hopes to pay it forward and do the same for others.</p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3cbb3bcc16aeaba606aa"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
