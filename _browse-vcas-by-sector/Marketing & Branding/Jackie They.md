@@ -16,16 +16,18 @@ third_nav_title: Marketing & Branding
 <p><strong>Jackie They</strong>
 </p>
 <p>General Manager, The Dubs Agency</p>
-<p></p>
 </blockquote>
-<p>As a seasoned leader in marketing, creative operations, and business development,
-I have a good overview of the industry from various roles across in-house
-marketing, business development and production in creatives agencies, and
-also marketing consultancy and training.</p>
-<p>I am currently a General Manager in a marketing agency overseeing business
-growth, operations and marketing.</p>
-<p>I have also made some pivots in my career and will be happy to share my
-experience.</p>
-<p></p>
+<p>Jackie is a seasoned leader with close to three decades of experience
+and skills that span marketing, production, client management and business
+development.</p>
+<p>Over the course of her career, she has pivoted her career various times,
+moving boldly from creative agencies to freelance positions and in-house
+roles at global organisations. This has allowed her to try her hand at
+a broad range of projects, work with international clients, and dabble
+in different content mediums.</p>
+<p>Today, Jackie uses this wealth of experience to lead business growth,
+operations and marketing at an international product marketing agency.</p>
+<p>As a mentor and career coach, she hopes her diverse background can inspire
+others and guide them on their unique career path.</p>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3d667951970965a83189"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
