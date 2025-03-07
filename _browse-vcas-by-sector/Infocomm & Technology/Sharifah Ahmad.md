@@ -38,5 +38,5 @@ an advisor for the youth academic, career/leadership initiatives, mentors
 and sits on the board of the RISE APAC Mentoring Programme for women in
 the media technology sector.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3c643bcc16aeaba5e6f3"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3c643bcc16aeaba5e6f3"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
