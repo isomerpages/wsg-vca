@@ -16,3 +16,7 @@ third_nav_title: Professional Services (HR)
 </blockquote>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png">
+</div>
+<p></p>
