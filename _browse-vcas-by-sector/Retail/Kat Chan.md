@@ -29,5 +29,5 @@ and exceptional listening skills to inspire others to set realistic goals
 and explore exciting career possibilities.</p>
 <p></p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f32bd9f07cd74ccef2ce1"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f32bd9f07cd74ccef2ce1"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
