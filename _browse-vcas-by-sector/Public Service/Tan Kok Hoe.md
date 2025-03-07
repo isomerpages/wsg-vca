@@ -23,5 +23,5 @@ learner in finance and accountancy, I am happy to share with anyone my
 experience working in different ministries and statutory boards. I am currently
 a public sector coach and also working towards my ACC coaching credential.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3d0928247165f53da9c2"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3d0928247165f53da9c2"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
