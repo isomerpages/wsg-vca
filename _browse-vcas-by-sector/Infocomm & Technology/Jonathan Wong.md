@@ -31,5 +31,5 @@ Technology (fintech) world.</p>
 Singaporeans not to give up in finding the right career path for themselves
 – it is never too late to change.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3dabe7b72f64b6a825b5"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3dabe7b72f64b6a825b5"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
