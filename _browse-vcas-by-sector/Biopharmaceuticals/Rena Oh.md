@@ -25,5 +25,5 @@ in Advanced Certificate in Training and Assessment (ACTA).</p>
 <p>Rena is passionate about career coaching and helping others to work through
 their work challenges.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3aeb591c8c2780f0a744"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3aeb591c8c2780f0a744"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
