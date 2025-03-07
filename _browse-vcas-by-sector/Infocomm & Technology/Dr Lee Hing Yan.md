@@ -40,6 +40,6 @@ discovery platform for private sector datasets.</p>
 with practical industry applications, establishing himself as a respected
 figure in the ICT landscape.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3566e7b72f64b6a4f77e"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3566e7b72f64b6a4f77e"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
 <p></p>
