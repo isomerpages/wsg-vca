@@ -30,5 +30,5 @@ also held a part-time lecturer appointment at SIM University.</p>
 <p>Kay Tick is passionate about coaching and sharing my experience and career
 journey with others.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f35bf999ce3dc3fd13847"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f35bf999ce3dc3fd13847"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
