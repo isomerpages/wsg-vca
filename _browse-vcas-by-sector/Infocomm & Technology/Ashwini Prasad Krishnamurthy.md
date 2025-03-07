@@ -36,5 +36,5 @@ in Tech Awards (2020), and the Women in ICT Awards by Channel Asia (2021).</p>
 discussions. She is committed to driving impactful change and empowering
 early- and mid-career professionals unlock their potentials.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f324228247165f5398b25"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f324228247165f5398b25"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
