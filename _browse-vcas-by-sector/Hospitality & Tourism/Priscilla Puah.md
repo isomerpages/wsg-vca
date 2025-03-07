@@ -57,5 +57,5 @@ wellness webinars on topics such as financial planning and well-being.</p>
 <p>Priscilla is privileged to serve as a volunteer Career Advisor to support
 job seekers in their career journey and guide individuals in their career
 aspiration.</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3c1044af8af5df7e1327"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3c1044af8af5df7e1327"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
