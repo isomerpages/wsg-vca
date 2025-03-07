@@ -33,5 +33,5 @@ environment.</p>
 volunteer supporting non-tech professionals seeking a career transition
 into the IT industry.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3cdf9f07cd74ccf2fc24"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3cdf9f07cd74ccf2fc24"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
