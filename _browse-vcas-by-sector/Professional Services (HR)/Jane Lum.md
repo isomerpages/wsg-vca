@@ -15,3 +15,8 @@ third_nav_title: Professional Services (HR)
 <p>Director Head of Human Resources, Shilla Travel Retail Singapore</p>
 </blockquote>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png">
+</div>
+<p></p>
