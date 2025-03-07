@@ -37,5 +37,5 @@ who benefit from the peer-level support and career guidance to secure better
 jobs or experience smoother career transitions, continue to pay it forward
 and uplift the community together.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3e04eb813d124e0ee27c"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3e04eb813d124e0ee27c"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
