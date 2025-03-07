@@ -16,20 +16,24 @@ third_nav_title: Infocomm & Technology
 <p>Director, Gemen Pte Ltd</p>
 </blockquote>
 <p></p>
-<p>Keng Wei hails from a humble background. In his secondary years, he took
-6 years to complete his O levels and was unable to get into a local polytechnic.
-Later on in life, he would go on to attend a private institute and attain
-tertiary education certification.</p>
-<p>He started his career as a sales executive in education, and eventually
-became an account manager in a telecommunication compan. From there, he
-was promoted to being Sales Manager and eventually Managing Director of
-the APAC region for a German software company in Singapore. This experience
-gave him the wide range of exposure to set up his 2 businesses, which are
-targeted at catering for the ever-challenging demands of the Financial
-Technology (fintech) world.</p>
-<p>His objective in being a volunteer career advisor is to encourage fellow
-Singaporeans not to give up in finding the right career path for themselves
-– it is never too late to change.</p>
-<p></p>
+<p>Jonathan's journey in the tech sector is a testament to his resilience,
+grit, and unwavering determination. Over the past two decades, he has defied
+the odds and climbed the career ladder, establishing himself as a formidable
+entrepreneur.</p>
+<p>Jonathan's challenges began in his teenage years when he took six years
+to complete his GCE ‘O’ Level examinations. Unable to qualify for a local
+polytechnic, the prospect of attending a local university seemed unattainable.
+This lead him to pursue his tertiary education at a private institute.</p>
+<p>Despite these setbacks, Jonathan's tenacity never wavered. With a strong
+work ethic as his guide, he began his career humbly as a sales executive.
+Through sheer determination and relentless effort, he ascended the corporate
+hierarchy, becoming an account manager and later the managing director
+of Asia at a renowned German software company.</p>
+<p>In 2018, armed with a wealth of experience and a bold vision, Jonathan
+ventured into the entrepreneurial world. He launched his own businesses,
+tapping into emerging trends in the fintech industry. His journey exemplifies
+that it is never too late to make a significant impact in one's life. Jonathan
+is passionate about inspiring others who face challenges, encouraging them
+to persist in finding their true career path</p>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3dabe7b72f64b6a825b5"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
