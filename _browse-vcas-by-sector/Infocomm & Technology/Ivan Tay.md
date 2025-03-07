@@ -45,5 +45,5 @@ or QA</p>
 <p>- what are the steps you need to take to go into this industry</p>
 <p>- What are the right attitudes to be in this industry</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3d3555b304aff4af5d18"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3d3555b304aff4af5d18"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
