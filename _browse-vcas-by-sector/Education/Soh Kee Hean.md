@@ -31,5 +31,5 @@ sectors. I have received help and learnt much throughout my career.</p>
 <p>With what I have gathered, I hope to value add and help others who are
 looking for direction and a way forward.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3cbb3bcc16aeaba606aa"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3cbb3bcc16aeaba606aa"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
