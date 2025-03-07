@@ -34,5 +34,5 @@ region at a UK FTSE 100 industrial engineering company.</p>
 <p>Besides focusing on the technical aspects of his work, he is keen to use
 his years of experience to help individuals achieve their full potential.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f33ea97c6404aace448e7"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f33ea97c6404aace448e7"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
