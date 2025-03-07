@@ -32,5 +32,5 @@ cybersecurity community. Zhihao is currently volunteering as a member of
 ISC2 Chapter Advisory Board, career advisor with Workforce Singapore (WSG)
 and a mentor with ISC2 Singapore Chapter.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3e2e7e69fe74e835f3ab"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3e2e7e69fe74e835f3ab"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
