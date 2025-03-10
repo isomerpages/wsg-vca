@@ -13,7 +13,7 @@ third_nav_title: Infocomm & Technology
 <p></p>
 <p><strong>Ashwini Prasad Krishnamurthy</strong>
 </p>
-<p>Global Consulting Partner and Strategic Alliances Lead, UiPath</p>
+<p>Principal GSI Channel Account Manager, APAC, Cloudfare</p>
 </blockquote>
 <p></p>
 <p>Ashwini has nearly two decades of experience in technology and consulting,
