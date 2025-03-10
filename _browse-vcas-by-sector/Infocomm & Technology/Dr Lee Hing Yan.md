@@ -19,16 +19,16 @@ third_nav_title: Infocomm & Technology
 known for his ability to combine academic research with practical industry
 applications.</p>
 <p>He spent the early years of his career at the Information Technology Institute,
-where he developed his data expertise and contributed to software tools
-used in the 2000 Singapore Census.</p>
-<p>In the field of Artificial Intelligence, where he led the development
-of intelligent systems at the Japan-Singapore AI Centre and oversaw industry
-collaboration on AI research undertaken at Kent Ridge Digital Labs. At
-the Info-Comm Development Authority (IDA), he drove development of the
-cloud ecosystem in SIngapore and championed the adoption of the technology
-in the public and private sectors. He then took on positions of Executive
-Vice President (EVP) for Government Affairs and APAC at Cloud Security
-Alliance (CSA and global director of the CSA STAR programme.</p>
+where he honed his data expertise and contributed to software tools used
+in the 2000 Singapore Census.</p>
+<p>In the field of Artificial Intelligence, he led the development of intelligent
+systems at the Japan-Singapore AI Centre and oversaw industry collaboration
+on AI research undertaken at Kent Ridge Digital Labs. At the Info-Comm
+Development Authority (IDA), he drove development of the cloud ecosystem
+in SIngapore and championed the adoption of the technology in the public
+and private sectors. He then took on positions of Executive Vice President
+(EVP) for Government Affairs and APAC at Cloud Security Alliance (CSA)
+and global director of the CSA STAR programme.</p>
 <p>Today, Hing Yan has shifted his focus to cybersecurity and works as a
 consultant for a global asset management firm.</p>
 <p>Hing Yan's path demonstrates how with continuous learning, expertise in
