@@ -30,7 +30,7 @@ sections:
       id: infopic
       button: find out how to get started
       url: /application-process/
-      image: /images/Untitled_design__1_.png
+      image: /images/Untitled_design__2_.png
       alt: Image alt text
   - infopic:
       title: Graduating?
