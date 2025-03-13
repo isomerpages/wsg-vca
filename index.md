@@ -25,6 +25,11 @@ sections:
         - title: DOWNLOAD PROGRAMME KIT
           description: Programme kit for students
           url: https://file.go.gov.sg/pvcaprogkit.pdf
+  - infobar:
+      title: How to connect with a VCA?
+      id: infobar
+      button: Find out how to get started
+      url: /application-process/
   - infopic:
       title: Graduating?
       id: infopic
