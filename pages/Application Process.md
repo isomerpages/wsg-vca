@@ -24,8 +24,8 @@ end of the programme</p>
 <p>Application Process:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Browse the list of VCAs on our microsite. Read each VCAs' profile to understand
-their background and expertise.</p>
+<p>Browse the list of VCAs on our microsite based on their sectors. Read
+each VCAs' profile to understand their background and expertise.</p>
 </li>
 <li>
 <p>Once you have identified a suitable VCA, click the "Connect with Me" button
