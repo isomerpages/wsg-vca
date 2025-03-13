@@ -31,7 +31,7 @@ sections:
       button: Find out how to get started
       url: /application-process/
   - infopic:
-      title: How to connect with a VCA?
+      title: Keen to connect with a VCA?
       id: infopic
       button: find out how to get started
       url: /application-process/
