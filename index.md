@@ -10,7 +10,7 @@ sections:
       title: Navigate Your Career Journey with Polaris by VCA
       subtitle: One-on-one career guidance from a Workforce Singapore's Volunteer
         Career Advisor (VCA)
-      background: /images/8.png
+      background: /images/Train_Banner.png
       variant: image
       size: md
       backgroundColor: gray
@@ -25,6 +25,13 @@ sections:
         - title: DOWNLOAD PROGRAMME KIT
           description: Programme kit for students
           url: https://file.go.gov.sg/pvcaprogkit.pdf
+  - infopic:
+      title: Keen to connect with a VCA?
+      id: infopic
+      button: find out how to get started
+      url: /application-process/
+      image: /images/Untitled_design__1_.png
+      alt: Image alt text
   - infopic:
       title: Graduating?
       id: infopic

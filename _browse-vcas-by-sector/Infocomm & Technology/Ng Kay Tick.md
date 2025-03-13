@@ -15,20 +15,26 @@ third_nav_title: Infocomm & Technology
 </p>
 <p>Head of Solution Engineering, Samsung SDS Asia Pacific</p>
 </blockquote>
+<p>In the 20 years he has spent in the technology industry, Kay Tick has
+held a variety of roles in multinational corporations, local companies
+and even institutes of higher learning.</p>
+<p>He graduated from Nanyang Technological University (NTU) with a degree
+in engineering and launched his career first as R&amp;D software engineer,
+before moving on to project management, solutions architecture, channel
+management, marketing and sales.</p>
+<p>His experience spans from developing and driving sales strategies to leading
+cross-functional solution teams and teaching at local universities.</p>
+<p>His diverse experiences, from driving sales strategies to leading cross-functional
+solution teams and teaching at local universities, have enabled Kay Tick
+to become techno- functional. He prides himself on knowing exactly how
+IT and business processes can be combined. Throughout his career, he has
+also been an advocate for the adoption of innovative technologies such
+as IoT, blockchain and more.</p>
+<p>Kay Tick is a firm believer in lifelong learning and is constantly looking
+for ways to expand his knowledge and skills. Testament to his desire to
+mentor and mould the next generation of leaders, he completed the Advanced
+Certificate in Learning and Performance (ACLP) in 2024 to enhance his coaching
+and facilitation skills.</p>
 <p></p>
-<p>With over 20 years of experience in the technology industry, Kay Tick
-is a techno-functional leader who excels at solution engineering, project
-management, and pre-sales.</p>
-<p>Throughout his career, he has developed and driven sales strategy and
-plans for the Southeast Asia and Australia market. he has evangelized innovative
-technologies such as Mobility Security, IoT, Blockchain, Digital Experience,
-Customer Experience, and Unified Communication at customer meetings, trade
-shows, and industry conferences. Additionally, he has built, led, and managed
-cross-functional Solution Engineering teams. His background includes working
-in US MNCs, Japanese MNCs, and local companies for various positions. He
-also held a part-time lecturer appointment at SIM University.</p>
-<p>Kay Tick is passionate about coaching and sharing my experience and career
-journey with others.</p>
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f35bf999ce3dc3fd13847"><img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f35bf999ce3dc3fd13847"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
