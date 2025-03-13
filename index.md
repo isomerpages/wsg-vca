@@ -31,6 +31,13 @@ sections:
       button: Find out how to get started
       url: /application-process/
   - infopic:
+      title: How to connect with a VCA?
+      id: infopic
+      button: find out how to get started
+      url: /application-process/
+      image: /images/Untitled_design__1_.png
+      alt: Image alt text
+  - infopic:
       title: Graduating?
       id: infopic
       description: Hear from our VCAs, Jackie They and Benjamin Cassim on what
