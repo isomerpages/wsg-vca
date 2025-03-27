@@ -24,8 +24,5 @@ also taken on the IHRP-SP certification to augment her skills.</p>
 <p>Her work as a career advisor is heavily influenced by her training in
 personality profiling tools such as the Strong Interest Inventory, MBTI
 and DISC. She is known for having an empathetic, systematic approach in
-guiding her clients towards their career goals.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png">
-</div>
+guiding her clients towards their career goals.</p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f345644af8af5df7b3929"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
