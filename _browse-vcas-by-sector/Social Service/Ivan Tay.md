@@ -34,8 +34,5 @@ videos and educational articles, establishing himself as a thought leader
 in ICT automation. He now leverages his combined experience in ICT and
 social services to mentor and support individuals pursuing careers in these
 fields.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3d3555b304aff4af5d18"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
