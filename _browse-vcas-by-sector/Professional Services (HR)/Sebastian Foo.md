@@ -25,8 +25,5 @@ and regional level.</p>
 <p>Sebastian is grateful for the mentorship and coaching he has received
 from industry leaders during his career journey and hopes to pay it forward
 by helping others find purpose in their work and explore new career opportunities.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f33c99b92dd0156719f11"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
