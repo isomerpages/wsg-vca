@@ -24,6 +24,6 @@ the journey. As a career coach, she is passionate about guiding individuals
 to embrace their authentic selves while finding fulfillment and enjoyment
 in their professional pursuits.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f36039f07cd74ccf08517"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f36039f07cd74ccf08517"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
