@@ -28,5 +28,6 @@ Associate Certified Coach–ICF Singapore, IHRP–SP and Advanced Certificate
 in Training and Assessment (ACTA).</p>
 <p>Rena aims to use her diverse experiences to help people overcome their
 individual career challenges.</p>
+<p></p>
 <p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3aeb591c8c2780f0a744"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
