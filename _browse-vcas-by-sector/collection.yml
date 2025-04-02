@@ -2,7 +2,7 @@ collections:
   browse-vcas-by-sector:
     output: true
     order:
-      - Air Transport/Air Transport Sector.md
+      - Air Transport/About Air Transport Sector.md
       - Air Transport/.keep
       - Air Transport/Kevin Chong.md
       - Biopharmaceuticals/.keep
