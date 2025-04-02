@@ -2,19 +2,25 @@ collections:
   browse-vcas-by-sector:
     output: true
     order:
+      - Air Transport/About Air Transport Sector.md
       - Air Transport/.keep
       - Air Transport/Kevin Chong.md
+      - Biopharmaceuticals/About Biopharmaceuticals Sector.md
       - Biopharmaceuticals/.keep
       - Biopharmaceuticals/Rena Oh.md
+      - Education/About Education Sector.md
       - Education/.keep
       - Education/Benjamin Daud Cassim.md
       - Education/Choong Fong Ling.md
       - Education/Soh Kee Hean.md
+      - Financial Services/About Financial Services Sector.md
       - Financial Services/.keep
       - Financial Services/Allen Zheng.md
       - Financial Services/Ng Lillian.md
+      - Hospitality & Tourism/About Hospitality & Tourism Sector.md
       - Hospitality & Tourism/.keep
       - Hospitality & Tourism/Priscilla Puah.md
+      - Infocomm & Technology/About Infocomm & Technology Sector.md
       - Infocomm & Technology/.keep
       - Infocomm & Technology/Anisha Guptey.md
       - Infocomm & Technology/Ashwini Prasad Krishnamurthy.md
@@ -32,11 +38,15 @@ collections:
       - Infocomm & Technology/Sharifah Ahmad.md
       - Infocomm & Technology/Soon Hoe Yew.md
       - Infocomm & Technology/Zhou Zhihao.md
+      - Manufacturing/About Manufacturing Sector.md
       - Manufacturing/.keep
       - Manufacturing/Clea Goh.md
       - Manufacturing/Sebastian Foo.md
+      - Marketing & Branding/About Marketing & Branding Sector.md
       - Marketing & Branding/.keep
       - Marketing & Branding/Jackie They.md
+      - Professional Services (HR)/About Professional Services (Human Resources)
+        Sector.md
       - Professional Services (HR)/.keep
       - Professional Services (HR)/Aditi Singh.md
       - Professional Services (HR)/Clea Goh.md
@@ -49,13 +59,17 @@ collections:
       - Professional Services (HR)/Priscilla Puah.md
       - Professional Services (HR)/Rena Oh.md
       - Professional Services (HR)/Sebastian Foo.md
+      - Public Service/About Public Service Sector.md
       - Public Service/.keep
       - Public Service/Tan Kok Hoe.md
+      - Real Estate/About Real Estate Sector.md
       - Real Estate/.keep
       - Real Estate/Colleen Chin.md
+      - Retail/About Retail Sector.md
       - Retail/.keep
       - Retail/Jane Lum.md
       - Retail/Kat Chan.md
+      - Social Service/About Social Service Sector.md
       - Social Service/.keep
       - Social Service/Goh Boon Siong.md
       - Social Service/Ivan Tay.md
