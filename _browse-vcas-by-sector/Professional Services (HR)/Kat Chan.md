@@ -1,6 +1,6 @@
 ---
 title: Kat Chan
-permalink: /kat-chan/
+permalink: /hr-kat-chan/
 variant: tiptap
 description: ""
 third_nav_title: Professional Services (HR)

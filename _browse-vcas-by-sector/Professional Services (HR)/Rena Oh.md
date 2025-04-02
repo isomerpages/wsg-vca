@@ -1,6 +1,6 @@
 ---
 title: Rena Oh
-permalink: /rena-oh/
+permalink: /hr-rena-oh/
 variant: tiptap
 description: ""
 third_nav_title: Professional Services (HR)

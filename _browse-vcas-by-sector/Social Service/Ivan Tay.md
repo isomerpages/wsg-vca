@@ -1,6 +1,6 @@
 ---
 title: Ivan Tay
-permalink: /ivan-tay/
+permalink: /socialservice-ivan-tay/
 variant: tiptap
 description: ""
 third_nav_title: Social Service

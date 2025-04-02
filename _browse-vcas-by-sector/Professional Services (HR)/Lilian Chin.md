@@ -1,6 +1,6 @@
 ---
 title: Lilian Chin
-permalink: /lilian-chin/
+permalink: /hr-lilian-chin/
 variant: tiptap
 description: ""
 third_nav_title: Professional Services (HR)

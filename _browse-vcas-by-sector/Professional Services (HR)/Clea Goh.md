@@ -1,6 +1,6 @@
 ---
 title: Clea Goh
-permalink: /clea-goh/
+permalink: /hr-clea-goh/
 variant: tiptap
 description: ""
 third_nav_title: Professional Services (HR)

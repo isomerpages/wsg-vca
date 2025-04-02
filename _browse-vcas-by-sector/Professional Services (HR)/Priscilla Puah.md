@@ -1,6 +1,6 @@
 ---
 title: Priscilla Puah
-permalink: /priscilla-puah/
+permalink: /hr-priscilla-puah/
 variant: tiptap
 description: ""
 third_nav_title: Professional Services (HR)
