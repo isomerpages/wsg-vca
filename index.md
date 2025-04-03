@@ -10,7 +10,7 @@ sections:
       title: Navigate Your Career Journey with Polaris by VCA
       subtitle: One-on-one career guidance from a Workforce Singapore's Volunteer
         Career Advisor (VCA)
-      background: /images/Train_Banner.png
+      background: /images/Page Photos/Train_Banner.png
       variant: image
       size: md
       backgroundColor: gray
@@ -30,7 +30,7 @@ sections:
       id: infopic
       button: find out how to get started
       url: /application-process/
-      image: /images/Untitled_design__2_.png
+      image: /images/Page Photos/Home_page_Banner_of_VCAs.png
       alt: Image alt text
   - infopic:
       title: Graduating?
@@ -39,6 +39,6 @@ sections:
         graduating students can take away from this programme.
       button: WATCH NOW
       url: https://youtu.be/jDHeRrWMRow
-      image: /images/PVCA_Video_Thumbnail.png
+      image: /images/Page Photos/PVCA_Video_Thumbnail.png
       alt: Image alt text
 ---
