@@ -30,7 +30,8 @@ sections:
       id: infopic
       button: find out how to get started
       url: /application-process/
-      image: /images/Untitled_design__2_.png
+      image: /images/Page
+        Photos/20241129_WSG_Polaris_Logo_by_Workforce_Singapore_s_Volunteer_Career_Advisors_FA_path.jpg
       alt: Image alt text
   - infopic:
       title: Graduating?
@@ -39,6 +40,6 @@ sections:
         graduating students can take away from this programme.
       button: WATCH NOW
       url: https://youtu.be/jDHeRrWMRow
-      image: /images/PVCA_Video_Thumbnail.png
+      image: /images/Page Photos/PVCA_Video_Thumbnail.png
       alt: Image alt text
 ---
