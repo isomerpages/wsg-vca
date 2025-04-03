@@ -30,8 +30,7 @@ sections:
       id: infopic
       button: find out how to get started
       url: /application-process/
-      image: /images/Page
-        Photos/20241129_WSG_Polaris_Logo_by_Workforce_Singapore_s_Volunteer_Career_Advisors_FA_path.jpg
+      image: /images/Page Photos/Home_page_Banner_of_VCAs.png
       alt: Image alt text
   - infopic:
       title: Graduating?
