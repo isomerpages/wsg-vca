@@ -1,6 +1,6 @@
 title: Workforce Singapore's Polaris by VCA
 url: https://www.polarisbyvca.wsg.gov.sg
-favicon: /images/WSG_Favicon.png
+favicon: /images/Page Photos/WSG_Favicon.png
 colors:
   primary-color: "#330072"
   secondary-color: "#c5299b"
@@ -52,7 +52,8 @@ plugins:
 staging: https://staging-lite.d1vvmfjnbvfsad.amplifyapp.com
 prod: https://master.d8zhuc1uh1o2o.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/20241129_WSG_Polaris_Logo_by_Workforce_Singapore_s_Volunteer_Career_Advisors_FA_path.jpg
+shareicon: /images/Page
+  Photos/20241129_WSG_Polaris_Logo_by_Workforce_Singapore_s_Volunteer_Career_Advisors_FA_path.jpg
 is_government: true
 google_analytics_ga4: G-D2TSTHNJWE
 linkedin-insights: ""
