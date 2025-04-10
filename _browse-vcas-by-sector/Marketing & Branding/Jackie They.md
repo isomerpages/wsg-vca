@@ -29,5 +29,7 @@ in different content mediums.</p>
 operations and marketing at an international product marketing agency.</p>
 <p>As a mentor and career coach, she hopes her diverse background can inspire
 others and guide them on their unique career path.</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3d667951970965a83189"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3d667951970965a83189"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
