@@ -30,6 +30,7 @@ business partner at a global organisation.</p>
 <p>Looking back at her journey, Aditi considers herself fortunate to have
 been given the encouragement, support and opportunities to grow. She hopes
 to do the same for those she meets.</p>
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/67074e265b72991ce98b0a19"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3c8e999ce3dc3fd3b662"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
 <p></p>
