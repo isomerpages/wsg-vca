@@ -30,5 +30,6 @@ Resource Professionals.</p>
 <p>Looking back on her career journey, Melissa understands the self-doubt
 that can arise at career crossroads. She hopes to encourage others and
 help them navigate their own paths and reach their professional aspirations.</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f34ed7951970965a4d639"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f34ed7951970965a4d639"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>

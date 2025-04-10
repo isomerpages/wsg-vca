@@ -35,6 +35,7 @@ for ways to expand his knowledge and skills. Testament to his desire to
 mentor and mould the next generation of leaders, he completed the Advanced
 Certificate in Learning and Performance (ACLP) in 2024 to enhance his coaching
 and facilitation skills.</p>
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f35bf999ce3dc3fd13847"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f35bf999ce3dc3fd13847"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
 <p></p>

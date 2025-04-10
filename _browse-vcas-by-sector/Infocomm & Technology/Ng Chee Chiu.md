@@ -27,5 +27,7 @@ companies. He is also officially certified as a ScrumMaster, LeSS Practitioner
 and Project Management Professional.</p>
 <p>Familiar with the courage and tenacity that one needs to succeed as a
 businessman, Chee Chiu hopes to share his experiences and guide other entrepreneurs
-to find success.</p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f359055b304aff4ac675a"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
-<p></p>
+to find success.</p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f359055b304aff4ac675a"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
