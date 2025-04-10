@@ -28,5 +28,8 @@ for students.</p>
 <p>She is always willing to meet with others, whether through coaching sessions
 or informal coffee chats. For her, there is nothing more satisfying than
 helping others and seeing them make a difference in their personal or professional
-lives.</p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3360fa52e54113d34626"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+lives.</p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3360fa52e54113d34626"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
 <p></p>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>

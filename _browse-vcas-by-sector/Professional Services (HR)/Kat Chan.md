@@ -26,5 +26,6 @@ authenticity.</p>
 <p>As a Volunteer Career Advisor, Kat leverages her deep insights, empathy,
 and exceptional listening skills to inspire others to set realistic goals
 and explore exciting career possibilities.</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f32bd9f07cd74ccef2ce1"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f32bd9f07cd74ccef2ce1"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
