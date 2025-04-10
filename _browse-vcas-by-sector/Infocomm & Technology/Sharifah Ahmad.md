@@ -32,5 +32,6 @@ she sits on the board of the RISE APAC Mentoring Programme for women in
 the media technology sector and actively participates in mentoring sessions.
 She enjoys inspiring a strive-and-thrive rhythm to realize potential and
 explore meaningful opportunities that resonate with set goals.</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3c643bcc16aeaba5e6f3"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3c643bcc16aeaba5e6f3"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
