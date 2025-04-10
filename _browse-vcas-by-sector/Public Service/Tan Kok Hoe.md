@@ -27,6 +27,7 @@ from procurement to human resources—ultimately reinforcing his belief in
 the importance of the public sector and the work he does.</p>
 <p>As a Volunteer Career Advisor, Kok Hoe hopes to help others find the same
 fulfilment in their careers as he has.</p>
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3d0928247165f53da9c2"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3d0928247165f53da9c2"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
 <p></p>
