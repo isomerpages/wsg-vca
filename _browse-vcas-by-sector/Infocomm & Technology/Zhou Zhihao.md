@@ -29,5 +29,6 @@ such as CISSP, ISSMP, ISSAP, CGRC, CCSP, CRISC, CSSLP, SSCP, CCSK, OSCP,
 CMSC and ITIL.</p>
 <p>As a Volunteer Career Advisor, Zhihao is particularly keen on supporting
 those who wish to grow in the cybersecurity community.</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3e2e7e69fe74e835f3ab"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3e2e7e69fe74e835f3ab"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
