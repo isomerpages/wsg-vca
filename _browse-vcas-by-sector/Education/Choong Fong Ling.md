@@ -29,5 +29,7 @@ just four years of her taking the reins as Head of Brand, Communication
 and Marketing.</p>
 <p>Drawing on her wealth of experience as a leader and mentor in the field,
 Fong Ling hopes to motivate and guide others to reach their career goals.</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f33889b92dd01567180d3"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f33889b92dd01567180d3"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
