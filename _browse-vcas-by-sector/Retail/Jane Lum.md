@@ -30,5 +30,6 @@ Through regular sharing and her volunteer work as a career counsellor,
 she hopes to help others discover their passions and find fulfilment in
 their careers. As she aptly puts it: “The best reward is to see growth
 in the people you coach and mentor.”</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f35177e69fe74e832a690"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f35177e69fe74e832a690"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
