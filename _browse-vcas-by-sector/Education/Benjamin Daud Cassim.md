@@ -33,5 +33,7 @@ tourism industry.</p>
 to inspire and encourage others interested in business or tourism and looks
 forward to helping them reach their career goals.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f329752fac86cddec1b74"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f329752fac86cddec1b74"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
