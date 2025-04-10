@@ -35,6 +35,7 @@ consultant for a global asset management firm.</p>
 one area can be applied across many domains. As a Volunteer Career Advisor,
 he hopes to share his lessons learned and encourage others to boldly pursue
 their dreams.</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3566e7b72f64b6a4f77e"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3566e7b72f64b6a4f77e"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
 <p></p>

@@ -27,6 +27,7 @@ and infrastructure management and more.</p>
 <p>In 2019, Teng Chiew started to give back to the sector through career
 mentoring. He hopes that he can use his wealth of experience to help others
 find meaningful and fulfilling work in the IT industry.</p>
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f34af60768f7e8d7a52b6"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f34af60768f7e8d7a52b6"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
 <p></p>

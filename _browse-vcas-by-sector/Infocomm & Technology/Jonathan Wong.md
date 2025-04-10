@@ -35,5 +35,6 @@ tapping into emerging trends in the fintech industry. His journey exemplifies
 that it is never too late to make a significant impact in one's life. Jonathan
 is passionate about inspiring others who face challenges, encouraging them
 to persist in finding their true career path</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3dabe7b72f64b6a825b5"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3dabe7b72f64b6a825b5"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>

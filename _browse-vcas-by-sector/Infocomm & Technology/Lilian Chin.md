@@ -29,6 +29,7 @@ and development of young talents.</p>
 <p>Lilian has always been grateful to the support, mentoring and coaching
 she received throughout her career journey and is now inspired to give
 back what she has gained through, her experiences and knowledge with others.</p>
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f333d591c8c2780edcade"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f333d591c8c2780edcade"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
 <p></p>

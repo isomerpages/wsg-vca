@@ -33,6 +33,7 @@ healthier relationships through evidence-based counselling approaches.</p>
 <p>Put together with his wealth of expertise in ICT, Ivan hopes to use his
 new skills to mentor and support individuals pursing careers pursuing careers
 in these fields.</p>
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3d3555b304aff4af5d18"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3d3555b304aff4af5d18"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
 <p></p>
