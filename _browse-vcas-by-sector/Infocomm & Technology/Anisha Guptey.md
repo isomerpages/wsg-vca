@@ -31,5 +31,7 @@ way for her to begin her journey as a career coach, and has become her
 “north star” guiding each interaction.</p>
 <p>With a healthy mix of both empathy and pragmatism, Anisha hopes to continue
 her journey as a coach and strives to continuously improve herself in the
-service of others.</p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f31803bf6ab7c407ac88f"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
-<p></p>
+service of others.</p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f31803bf6ab7c407ac88f"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
