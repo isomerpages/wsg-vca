@@ -33,5 +33,6 @@ employment-related issues as an advisor at the Tripartite Alliance for
 Dispute Management Act.</p>
 <p>As a Volunteer Career Advisor, Priscilla sees it as a privilege to be
 able to help others trying to find their way.</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3c1044af8af5df7e1327"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3c1044af8af5df7e1327"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>

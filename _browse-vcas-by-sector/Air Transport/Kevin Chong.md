@@ -30,5 +30,7 @@ difference. Through his volunteer work as a career advisor, Kevin hopes
 to help others discover their strengths and find both purpose and satisfaction
 in their professional lives.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f353c52fac86cdded3728"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
 <p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f353c52fac86cdded3728"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>

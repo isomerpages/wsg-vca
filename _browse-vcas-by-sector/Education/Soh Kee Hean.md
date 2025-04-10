@@ -32,6 +32,6 @@ governance, corruption, policing, crime, public safety and security.</p>
 <p>Kee Hean acknowledges that his career journey was only made possible because
 of the guidance and support he received along the way. As a Volunteer Career
 Advisor, he hopes to pay it forward and do the same for others.</p>
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3cbb3bcc16aeaba606aa"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CONNECT_WITH_ME.png"></a>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/677f3cbb3bcc16aeaba606aa"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Page Photos/CONNECT_WITH_ME.png"></a>
+<p><strong>Important Note: Please connect with only one Volunteer Career Advisor (VCA). This ensures that each student receives dedicated attention and allows more students to benefit from the programme.</strong>
+</p>
