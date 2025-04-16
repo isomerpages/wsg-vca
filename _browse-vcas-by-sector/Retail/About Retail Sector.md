@@ -16,3 +16,15 @@ and experiential shopping, professionals can explore careers in retail
 operations, merchandising, e-commerce, and retail analytics.</p>
 <p>Ready to revolutionise the retail experience? Connect with our VCAs who
 understand both traditional and digital retail landscapes.</p>
+<p>Connect with a VCA today!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/jane-lum/" rel="noopener nofollow" target="_blank">Jane Lum</a>
+</p>
+</li>
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/kat-chan/" rel="noopener nofollow" target="_blank">Kat Chan</a>
+</p>
+</li>
+</ul>
+<p></p>
