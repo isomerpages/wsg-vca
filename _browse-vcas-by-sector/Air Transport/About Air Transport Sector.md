@@ -20,3 +20,10 @@ airport solutions.</p>
 <p></p>
 <p>Ready to soar in aviation? Browse our VCAs who have navigated successful
 careers in air transport and let them guide your journey skyward.</p>
+<p>Connect with a VCA today!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kevin Chong</p>
+</li>
+</ul>
+<p></p>
