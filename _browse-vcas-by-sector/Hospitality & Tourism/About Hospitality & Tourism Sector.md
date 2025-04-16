@@ -19,3 +19,11 @@ exciting careers in guest services, event management, and tourism development.</
 <p>Want to be part of Singapore's vibrant hospitality scene? Let our VCAs
 share their experiences and guide you towards exciting opportunities in
 this dynamic industry.</p>
+<p>Connect with a VCA today!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/priscilla-puah/" rel="noopener nofollow" target="_blank">Priscilla Puah</a>
+</p>
+</li>
+</ul>
+<p></p>
