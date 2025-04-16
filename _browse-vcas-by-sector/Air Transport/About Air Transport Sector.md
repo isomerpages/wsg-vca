@@ -23,7 +23,8 @@ careers in air transport and let them guide your journey skyward.</p>
 <p>Connect with a VCA today!</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kevin Chong</p>
+<p><a href="https://polarisbyvca.wsg.gov.sg/kevin-chong/" rel="noopener nofollow" target="_blank">Kevin Chong</a>
+</p>
 </li>
 </ul>
 <p></p>
