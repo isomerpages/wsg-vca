@@ -16,4 +16,11 @@ offers opportunities in policy analysis, service design, digital government,
 and community development.</p>
 <p>Keen to serve the nation? Our VCAs from the public service can share valuable
 insights about building a meaningful career in governance.</p>
+<p>Connect with a VCA today!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/tan-kok-hoe/" rel="noopener nofollow" target="_blank">Tan Kok Hoe</a>
+</p>
+</li>
+</ul>
 <p></p>

@@ -17,6 +17,13 @@ and marketing analytics. Singapore's position as a regional marketing hub
 offers exposure to diverse markets and cutting-edge marketing technologies.</p>
 <p>Want to make your mark in the creative world of marketing? Browse our
 VCAs who have built successful careers in this dynamic field.</p>
+<p>Connect with a VCA today!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/jackie-they/" rel="noopener nofollow" target="_blank">Jackie They</a>
+</p>
+</li>
+</ul>
 <p>
 <br>
 </p>

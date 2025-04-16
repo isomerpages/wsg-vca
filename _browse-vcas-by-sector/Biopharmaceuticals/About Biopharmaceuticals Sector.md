@@ -20,3 +20,11 @@ sector offers rewarding careers in research, manufacturing, and regulatory
 affairs.</p>
 <p>Curious about making your mark in biomedical sciences? Connect with our
 VCAs who are shaping Singapore's thriving biopharmaceutical landscape.</p>
+<p>Connect with a VCA today!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/rena-oh/" rel="noopener nofollow" target="_blank">Rena Oh</a>
+</p>
+</li>
+</ul>
+<p></p>

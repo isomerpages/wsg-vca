@@ -18,3 +18,15 @@ to contribute to Singapore's social fabric while developing professional
 expertise.</p>
 <p>Want to make a difference in people's lives? Browse our VCAs who have
 found purpose and growth in the social service sector.</p>
+<p>Connect with a VCA today!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/goh-boon-siong/" rel="noopener nofollow" target="_blank">Goh Boon Siong</a>
+</p>
+</li>
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/socialservice-ivan-tay/" rel="noopener nofollow" target="_blank">Ivan Tay</a>
+</p>
+</li>
+</ul>
+<p></p>

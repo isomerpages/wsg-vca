@@ -17,3 +17,11 @@ in property technology, sustainable development, asset management, and
 facilities innovation.</p>
 <p>Interested in property and urban development? Our experienced VCAs can
 help you navigate the opportunities in Singapore's real estate sector.</p>
+<p>Connect with a VCA today!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/colleen-chin/" rel="noopener nofollow" target="_blank">Colleen Chin</a>
+</p>
+</li>
+</ul>
+<p></p>

@@ -6,10 +6,11 @@ description: ""
 third_nav_title: Professional Services (HR)
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Profile Photos/sebastian foo.jpg">
-</div>
 <blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Profile Photos/Sebastian_Foo.png">
+</div>
 <p><strong>Sebastian Foo</strong>
 </p>
 <p>Vice President, Corporate HR, Cosmostar Singapore</p>

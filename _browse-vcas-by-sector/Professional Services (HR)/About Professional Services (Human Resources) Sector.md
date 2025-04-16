@@ -17,3 +17,51 @@ roles in talent acquisition, learning and development, compensation and
 benefits, and HR transformation.</p>
 <p>Looking to shape workplace cultures and develop talent? Connect with our
 HR professionals who can guide your journey in this people-centric field.</p>
+<p>Connect with a VCA today!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/hr-aditi-singh/" rel="noopener nofollow" target="_blank">Aditi Singh</a>
+</p>
+</li>
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/hr-clea-goh/" rel="noopener nofollow" target="_blank">Clea Goh</a>
+</p>
+</li>
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/hr-colleen-chin/" rel="noopener nofollow" target="_blank">Colleen Chin</a>
+</p>
+</li>
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/hr-jane-lum/" rel="noopener nofollow" target="_blank">Jane Lum</a>
+</p>
+</li>
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/hr-kat-chan/" rel="noopener nofollow" target="_blank">Kat Chan</a>
+</p>
+</li>
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/hr-kevin-chong/" rel="noopener nofollow" target="_blank">Kevin Chong</a>
+</p>
+</li>
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/hr-lilian-chin/" rel="noopener nofollow" target="_blank">Lilian Chin</a>
+</p>
+</li>
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/hr-ng-lillian/" rel="noopener nofollow" target="_blank">Ng Lillian</a>
+</p>
+</li>
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/hr-priscilla-puah/" rel="noopener nofollow" target="_blank">Priscilla Puah</a>
+</p>
+</li>
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/hr-rena-oh/" rel="noopener nofollow" target="_blank">Rena Oh</a>
+</p>
+</li>
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/hr-sebastian-foo/" rel="noopener nofollow" target="_blank">Sebastian Foo</a>
+</p>
+</li>
+</ul>
+<p></p>
