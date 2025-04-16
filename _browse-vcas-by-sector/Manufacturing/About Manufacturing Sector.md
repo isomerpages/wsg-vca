@@ -17,3 +17,15 @@ can find opportunities in advanced manufacturing, supply chain innovation,
 and green manufacturing practices.</p>
 <p>Interested in advanced manufacturing? Our VCAs can help you understand
 the evolving landscape of this future-ready sector.</p>
+<p>Connect with a VCA today!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/clea-goh/" rel="noopener nofollow" target="_blank">Clea Goh</a>
+</p>
+</li>
+<li>
+<p><a href="https://polarisbyvca.wsg.gov.sg/sebastian-foo/" rel="noopener nofollow" target="_blank">Sebastian Foo</a>
+</p>
+</li>
+</ul>
+<p></p>
