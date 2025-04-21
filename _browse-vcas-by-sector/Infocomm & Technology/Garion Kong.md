@@ -13,8 +13,7 @@ third_nav_title: Infocomm & Technology
 <blockquote>
 <p><strong>Garion Kong</strong>
 </p>
-<p>Group IT Infrastructure &amp; Operations Regional Lead (APAC), Spirax
-Group</p>
+<p>Information Security Manager, Spirax Group plc</p>
 <p>CISSP, CCSP, SSCP, C|CISO, CISA, CISM, CRISC, PCQI</p>
 </blockquote>
 <p></p>
