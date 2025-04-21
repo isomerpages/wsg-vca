@@ -22,7 +22,7 @@ third_nav_title: Real Estate
 has a global portfolio spanning industries such as investment, real estate
 and hospitality.</p>
 <p>She manages CapitaLand's internal programme management office in the learning
-and development department and the Continuing Education Training (CET)
+and development department and the Continuing Education and Training (CET)
 Centre of the hospitality arm, and is well versed in helping employees
 adapt to new enterprise resource planning (ERP) and people management solutions.</p>
 <p>Passionate about people development, Colleen has undertaken formal training
