@@ -8,11 +8,11 @@ third_nav_title: Marketing & Branding
 <blockquote>
 <p></p>
 </blockquote>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Jackie They" src="https://res.cloudinary.com/glide/image/fetch/f_auto,w_1425,h_1425,c_lfill,g_faces/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FzJtWb3Fkip5L6FiXLW6R%2Fpub%2FFFYhc7pQPuQ5rTn5ieKI.JPG">
-</div>
 <blockquote>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Profile Photos/Jackie_They.jpg">
+</div>
 <p><strong>Jackie They</strong>
 </p>
 <p>General Manager, The Dubs Agency</p>
